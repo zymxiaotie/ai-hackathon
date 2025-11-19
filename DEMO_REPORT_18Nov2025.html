@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tender Overview Report - HDB/2025/REN/001</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .container { max-width: 900px; margin: 0 auto; background: white; border-radius: 12px; box-shadow: 0 10px 40px rgba(0,0,0,0.3); overflow: hidden; }
+        .email-header { background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%); color: white; padding: 30px; }
+        .email-header h1 { font-size: 24px; margin-bottom: 8px; }
+        .email-meta { font-size: 13px; opacity: 0.9; }
+        .content { padding: 30px; }
+        .section { border: 2px solid #e5e7eb; border-radius: 8px; margin-bottom: 20px; overflow: hidden; transition: all 0.3s ease; }
+        .section:hover { border-color: #2563eb; box-shadow: 0 4px 12px rgba(37, 99, 235, 0.1); }
+        .section-header { background: linear-gradient(to right, #f9fafb 0%, #f3f4f6 100%); padding: 18px 20px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; user-select: none; border-bottom: 2px solid #e5e7eb; }
+        .section-header:hover { background: linear-gradient(to right, #eff6ff 0%, #dbeafe 100%); }
+        .section-title { font-size: 18px; font-weight: 700; color: #1e40af; display: flex; align-items: center; gap: 10px; }
+        .section-icon { font-size: 20px; }
+        .toggle-icon { font-size: 20px; color: #6b7280; transition: transform 0.3s ease; }
+        .section.collapsed .toggle-icon { transform: rotate(-90deg); }
+        .section-content { padding: 25px; max-height: 2000px; overflow: hidden; transition: max-height 0.4s ease, padding 0.4s ease; }
+        .section.collapsed .section-content { max-height: 0; padding: 0 25px; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0; }
+        .stat-card { background: #f9fafb; padding: 20px; border-radius: 8px; border-left: 4px solid #2563eb; text-align: center; }
+        .stat-value { font-size: 32px; font-weight: 700; color: #1e40af; }
+        .stat-label { font-size: 12px; color: #6b7280; margin-top: 8px; }
+        .recommendation-box { padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center; font-size: 18px; font-weight: 700; }
+        .rec-no-go { background: #fee2e2; border: 2px solid #ef4444; color: #991b1b; }
+        .rec-go { background: #d1fae5; border: 2px solid #10b981; color: #065f46; }
+        .info-table { width: 100%; margin: 15px 0; }
+        .info-table td { padding: 10px; border-bottom: 1px solid #e5e7eb; }
+        .info-table td:first-child { font-weight: 600; color: #4b5563; width: 200px; }
+        .deadline-urgent { color: #dc2626; font-weight: 700; font-size: 16px; }
+        table.data-table { width: 100%; border-collapse: collapse; margin: 15px 0; }
+        table.data-table th { background: #2563eb; color: white; padding: 12px; text-align: left; font-weight: 600; }
+        table.data-table td { padding: 12px; border-bottom: 1px solid #e5e7eb; }
+        table.data-table tr:hover { background: #f9fafb; }
+        .status-badge { padding: 4px 12px; border-radius: 12px; font-size: 13px; font-weight: 600; }
+        .status-met { background: #d1fae5; color: #065f46; }
+        .status-not-met { background: #fee2e2; color: #991b1b; }
+        .status-pending { background: #fef3c7; color: #92400e; }
+        .status-received { background: #d1fae5; color: #065f46; }
+        .status-missing { background: #fee2e2; color: #991b1b; }
+        .badge-addendum { background: #fef3c7; color: #92400e; padding: 3px 10px; border-radius: 10px; font-size: 12px; }
+        .alert-warning { padding: 15px; border-radius: 8px; margin: 15px 0; background: #fef3c7; border-left: 4px solid #f59e0b; color: #92400e; }
+        .alert-danger { padding: 15px; border-radius: 8px; margin: 15px 0; background: #fee2e2; border-left: 4px solid #ef4444; color: #991b1b; }
+        .action-item { background: #f9fafb; padding: 15px; margin: 10px 0; border-radius: 6px; border-left: 4px solid; }
+        .priority-critical { border-left-color: #ef4444; }
+        .priority-high { border-left-color: #f59e0b; }
+        .addendum-box { background: #fef9e7; padding: 15px; margin: 10px 0; border-radius: 8px; border-left: 4px solid #f59e0b; }
+        .controls { background: #f3f4f6; padding: 15px 30px; display: flex; gap: 10px; border-top: 2px solid #e5e7eb; }
+        .btn { padding: 10px 20px; border: none; border-radius: 6px; font-weight: 600; cursor: pointer; transition: all 0.2s; }
+        .btn-primary { background: #2563eb; color: white; }
+        .btn-primary:hover { background: #1e40af; }
+        .btn-secondary { background: white; color: #374151; border: 2px solid #d1d5db; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="email-header">
+            <h1>📧 Tender Alert: HDB/2025/REN/001 - Overview Report</h1>
+            <div class="email-meta">
+                <div>From: Tender Intelligence Assistant &lt;noreply@company.com&gt;</div>
+                <div>To: qs@company.com</div>
+                <div>Date: 18 Nov 2025, 11:07 PM</div>
+            </div>
+        </div>
+
+        <div class="content">
+            <!-- SECTION 1: Executive Summary -->
+            <div class="section">
+                <div class="section-header">
+                    <div class="section-title"><span class="section-icon">📊</span> SECTION 1: Executive Summary</div>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div class="section-content">
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-value">3/5</div>
+                            <div class="stat-label">Requirements Met</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">3/5</div>
+                            <div class="stat-label">Documents Received</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-value">26</div>
+                            <div class="stat-label">Days Until Deadline</div>
+                        </div>
+                    </div>
+                    
+                        <div class="recommendation-box rec-no-go">✗ NOT RECOMMENDED TO BID - Review Issues Below</div>
+                    
+                </div>
+            </div>
+
+            <!-- SECTION 2: Tender Overview -->
+            <div class="section">
+                <div class="section-header">
+                    <div class="section-title"><span class="section-icon">📋</span> SECTION 2: Tender Overview</div>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div class="section-content">
+                    <table class="info-table">
+                        <tr><td>Tender Title</td><td>HDB Renovation at Ang Mo Kio Block 123</td></tr>
+                        <tr><td>Reference Number</td><td><strong>HDB/2025/REN/001</strong></td></tr>
+                        <tr><td>Issuing Authority</td><td>Housing & Development Board</td></tr>
+                        <tr><td>Submission Deadline</td><td class="deadline-urgent">2025-12-15 (26 days left)</td></tr>
+                        <tr><td>Project Name</td><td>AMK Block 123 Upgrading Works</td></tr>
+                        <tr><td>Site Location</td><td>Ang Mo Kio Avenue 3, Singapore</td></tr>
+                        <tr><td>Contract Type</td><td>PSSCOC (Public Sector Standard Conditions of Contract)</td></tr>
+                        <tr><td>Liquidated Damages</td><td>$1,000 per day of delay</td></tr>
+                        <tr><td>Performance Bond</td><td>10.0%</td></tr>
+                        <tr><td>Retention</td><td>5.0%</td></tr>
+                    </table>
+                </div>
+            </div>
+
+            <!-- SECTION 3: Eligibility Status -->
+            <div class="section">
+                <div class="section-header">
+                    <div class="section-title"><span class="section-icon">✅</span> SECTION 3: Eligibility Status</div>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div class="section-content">
+                    <div class="alert-danger"><strong>⚠️ WARNING:</strong> Company does not meet all eligibility requirements.</div>
+                    <table class="data-table">
+                        <thead><tr><th>Requirement Type</th><th>Requirement</th><th>Status</th><th>Notes</th><th>Source</th></tr></thead>
+                        <tbody>
+                            
+                            <tr >
+                                <td>LICENSE</td>
+                                <td>BCA L6 License (General Building)</td>
+                                <td><span class="status-badge status-met">✓ MET</span></td>
+                                <td>Company holds valid BCA L6. Expiry: 31-Dec-2026</td>
+                                <td>Original</td>
+                            </tr>
+                            
+                            <tr >
+                                <td>CERTIFICATION</td>
+                                <td>ISO 9001:2015 Certification</td>
+                                <td><span class="status-badge status-met">✓ MET</span></td>
+                                <td>Valid until 15-Aug-2026</td>
+                                <td>Original</td>
+                            </tr>
+                            
+                            <tr style="background:#fef3c7;">
+                                <td>EXPERIENCE</td>
+                                <td>Minimum 3 completed projects >$2M in last 5 years</td>
+                                <td><span class="status-badge status-not-met">✗ NOT MET</span></td>
+                                <td>Only 2 qualifying projects found: Tampines HDB ($2.5M, 2023), Jurong West CC ($3.1M, 2024)</td>
+                                <td>Original</td>
+                            </tr>
+                            
+                            <tr >
+                                <td>FINANCIAL</td>
+                                <td>Minimum annual turnover of $5M</td>
+                                <td><span class="status-badge status-met">✓ MET</span></td>
+                                <td>FY2024: $7.2M</td>
+                                <td>Original</td>
+                            </tr>
+                            
+                            <tr style="background:#fef3c7;">
+                                <td>COMPLIANCE</td>
+                                <td>Valid MOM work permits for all foreign workers</td>
+                                <td><span class="status-badge status-not-met">✗ NOT MET</span></td>
+                                <td>Need to verify work permits. Company has 3 foreign workers.</td>
+                                <td>Original</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- SECTION 4: Document Register -->
+            <div class="section">
+                <div class="section-header">
+                    <div class="section-title"><span class="section-icon">📁</span> SECTION 4: Document Register</div>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div class="section-content">
+                    <div class="alert-warning"><strong>⚠️ MISSING DOCUMENTS:</strong> 2 mandatory documents</div>
+                    <!-- Full list can be added later -->
+                </div>
+            </div>
+
+            <!-- SECTION 5: Addenda -->
+            
+            <div class="section">
+                <div class="section-header">
+                    <div class="section-title"><span class="section-icon">📝</span> SECTION 5: Addenda Tracker</div>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div class="section-content">
+                    
+                    <div class="addendum-box">
+                        <h3>Addendum #1 - Compliance Update</h3>
+                        <p><strong>Date:</strong> 2025-11-07</p>
+                        <p>BOQ template updated to v2.0, deadline extended, new MOM compliance requirement added</p>
+                    </div>
+                    
+                </div>
+            </div>
+            
+
+            <!-- SECTION 6: Next Actions -->
+            <div class="section">
+                <div class="section-header">
+                    <div class="section-title"><span class="section-icon">🎯</span> SECTION 6: Next Actions</div>
+                    <span class="toggle-icon">▼</span>
+                </div>
+                <div class="section-content">
+                    
+                        
+                        <div class="action-item priority-critical">
+                            <strong style="color:#dc2626;">CRITICAL:</strong> Prepare and submit Safety Risk Assessment
+                        </div>
+                        
+                        <div class="action-item priority-critical">
+                            <strong style="color:#dc2626;">CRITICAL:</strong> Prepare and submit Site Plan
+                        </div>
+                        
+                    
+                    
+                    <div class="action-item priority-high">
+                        <strong style="color:#d97706;">HIGH:</strong> Address EXPERIENCE requirement: Minimum 3 completed projects >$2M in last 5 years
+                    </div>
+                    
+                    <div class="action-item priority-high">
+                        <strong style="color:#d97706;">HIGH:</strong> Address COMPLIANCE requirement: Valid MOM work permits for all foreign workers
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button class="btn btn-primary" onclick="expandAll()">▼ Expand All</button>
+            <button class="btn btn-secondary" onclick="collapseAll()">▲ Collapse All</button>
+            <button class="btn btn-secondary" onclick="window.print()">🖨️ Print</button>
+        </div>
+    </div>
+
+    <script>
+        document.querySelectorAll('.section-header').forEach(h => h.addEventListener('click', () => h.parentElement.classList.toggle('collapsed')));
+        function expandAll() { document.querySelectorAll('.section').forEach(s => s.classList.remove('fcollapsed')); }
+        function collapseAll() { document.querySelectorAll('.section').forEach(s => s.classList.add('collapsed')); }
+    </script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+log_id,tender_id,module_name,workflow_execution_id,status,started_at,completed_at,duration_seconds,output_data,error_message,tracking_id,stage,message,error_details
+6,,,,started,2025-11-20 09:12:36.895491,,,,,9c61e5d9-4b5a-4e1c-8265-cfbdb1d2838d,document_processing,,
+7,,,,started,2025-11-20 09:13:17.878741,,,,,4e3d8aaa-e7ae-408b-bca2-51b85cf7465f,document_processing,,
+8,,,,started,2025-11-20 09:13:26.560355,,,,,9a9a7bf2-592a-4735-a3fc-34ce57f2c073,document_processing,,
+9,,,,started,2025-11-20 09:13:36.045748,,,,,516cf11f-309a-40d6-a1d7-f945e7a37ee6,document_processing,,
+10,2,,,completed,2025-11-20 09:14:57.059095,2025-11-20 01:15:26.887133,30,,,516cf11f-309a-40d6-a1d7-f945e7a37ee6,document_processing,"Successfully processed 6 pages, 2 chunks",
+11,2,,,completed,2025-11-20 09:15:28.606898,2025-11-20 01:15:38.385794,10,,,40abb17c-1fac-4065-9097-026e55b7665b,document_processing,"Successfully processed 3 pages, 1 chunks",
+12,2,,,completed,2025-11-20 09:15:40.276647,2025-11-20 01:16:17.821263,37,,,04336799-9aa2-453a-bfc2-bf1dccab08f7,document_processing,"Successfully processed 8 pages, 3 chunks",
+13,2,,,completed,2025-11-20 09:16:20.133419,2025-11-20 01:16:40.105856,20,,,d73a0386-d6aa-40b6-9508-a7d0f980b50d,document_processing,"Successfully processed 4 pages, 1 chunks",
+14,2,,,completed,2025-11-20 09:16:42.274601,2025-11-20 01:17:23.625062,41,,,b6a0ab2c-ba41-43b9-b2a3-4d7d4ddbce23,document_processing,"Successfully processed 8 pages, 3 chunks",
+15,2,,,completed,2025-11-20 09:17:25.336972,2025-11-20 01:19:25.060834,120,,,c16461d5-09a0-42a6-8d47-7fad873ee59e,document_processing,"Successfully processed 14 pages, 7 chunks",
+16,3,,,completed,2025-11-20 09:22:28.354610,2025-11-20 01:22:41.986806,14,,,2f122eca-9fd5-4760-a50d-af3d6de708c9,document_processing,"Successfully processed 5 pages, 1 chunks",
+17,3,,,completed,2025-11-20 09:22:44.173721,2025-11-20 01:22:52.533857,8,,,5de96bd0-c030-4988-91b9-59a037c4109e,document_processing,"Successfully processed 3 pages, 1 chunks",
+18,,,,started,2025-11-20 09:22:54.924496,,,,,8ff1ee89-a856-4631-81fd-919b05ba4518,document_processing,,
+19,3,,,completed,2025-11-20 09:23:01.286994,2025-11-20 01:23:10.268079,9,,,94da3e66-4af5-49f2-8294-8a062c9eb760,document_processing,"Successfully processed 3 pages, 1 chunks",
+20,3,,,completed,2025-11-20 09:23:15.485913,2025-11-20 01:23:39.808604,24,,,9cc38131-032d-4fdc-8d5d-d18bd7a83baa,document_processing,"Successfully processed 5 pages, 2 chunks",
+21,3,,,completed,2025-11-20 09:23:41.786338,2025-11-20 01:25:16.608803,95,,,c6cba908-7a08-42be-9d0c-74c64d30bd7c,document_processing,"Successfully processed 28 pages, 14 chunks",
+22,3,,,completed,2025-11-20 09:25:18.826379,2025-11-20 01:25:38.866591,20,,,dd3173c3-d5d4-45ec-9a4e-69381c8a79e9,document_processing,"Successfully processed 5 pages, 2 chunks",
+23,3,,,completed,2025-11-20 09:25:40.836090,2025-11-20 01:26:13.472910,33,,,0bd31ba6-dd9b-4316-926d-27e9fa1d16da,document_processing,"Successfully processed 6 pages, 2 chunks",
+24,3,,,completed,2025-11-20 09:26:15.525730,2025-11-20 01:26:26.653706,11,,,bfa93e8f-4be0-4229-8595-81a70d1685f7,document_processing,"Successfully processed 3 pages, 1 chunks",
+25,3,,,completed,2025-11-20 09:26:28.325665,2025-11-20 01:27:08.844765,40,,,db5b058f-8f63-423e-b420-07aeef599c78,document_processing,"Successfully processed 11 pages, 3 chunks",
+26,3,,,completed,2025-11-20 09:27:10.979592,2025-11-20 01:27:26.649824,16,,,0da8efe6-621a-400c-b4e0-4da13635a36f,document_processing,"Successfully processed 4 pages, 1 chunks",
+27,3,,,completed,2025-11-20 09:27:28.578237,2025-11-20 01:28:20.314948,52,,,6e1c4096-5100-4260-871a-544126b7cc3d,document_processing,"Successfully processed 12 pages, 6 chunks",
+28,3,,,completed,2025-11-20 09:28:22.050976,2025-11-20 01:29:00.503343,38,,,f525b99f-5f39-432f-adde-9994381baaa9,document_processing,"Successfully processed 7 pages, 3 chunks",
+29,3,,,completed,2025-11-20 09:29:02.217990,2025-11-20 01:29:15.407183,13,,,558b9a63-e1a7-4d16-9e1d-f3b741183779,document_processing,"Successfully processed 5 pages, 1 chunks",
+30,3,,,completed,2025-11-20 09:29:16.831396,2025-11-20 01:29:25.637039,9,,,bd55f2bc-ecc9-4e61-9586-ec31fc9531f7,document_processing,"Successfully processed 3 pages, 1 chunks",
+31,3,,,completed,2025-11-20 09:29:27.674554,2025-11-20 01:29:59.576931,32,,,0114a464-f092-4f4c-9ee9-3c120e76ea5e,document_processing,"Successfully processed 5 pages, 2 chunks",
+32,3,,,completed,2025-11-20 09:30:01.362143,2025-11-20 01:30:10.181556,9,,,3a83a489-b2cd-4274-8372-6960b1bde9db,document_processing,"Successfully processed 3 pages, 1 chunks",
+33,3,,,completed,2025-11-20 09:30:12.721572,2025-11-20 01:30:39.826955,27,,,e4954cd7-7d61-41b3-b938-aff28a062b02,document_processing,"Successfully processed 5 pages, 2 chunks",
+34,3,,,completed,2025-11-20 09:30:41.828026,2025-11-20 01:32:22.975015,101,,,186ae424-96e0-4987-8f95-d7c4355712df,document_processing,"Successfully processed 28 pages, 14 chunks",
+35,3,,,completed,2025-11-20 09:32:24.732853,2025-11-20 01:32:47.425408,23,,,4d7450d6-1ca6-42c3-8299-2e51fa139aeb,document_processing,"Successfully processed 5 pages, 2 chunks",
+36,3,,,completed,2025-11-20 09:32:49.282707,2025-11-20 01:33:21.272550,32,,,b1152588-f192-4569-a2ad-1ff3e1ec7605,document_processing,"Successfully processed 6 pages, 2 chunks",
+37,3,,,completed,2025-11-20 09:33:23.112884,2025-11-20 01:33:32.402779,9,,,7c667beb-fba2-472d-bbd1-fa83b2048f29,document_processing,"Successfully processed 3 pages, 1 chunks",
+38,3,,,completed,2025-11-20 09:33:34.644896,2025-11-20 01:34:05.612842,31,,,e235a729-b2b8-405d-81d9-b5eec9cebc70,document_processing,"Successfully processed 11 pages, 3 chunks",
+39,3,,,completed,2025-11-20 09:34:08.854656,2025-11-20 01:34:19.800658,11,,,3aa8b8fa-3211-4c90-8e28-b6644bacf8ac,document_processing,"Successfully processed 4 pages, 1 chunks",
+40,3,,,completed,2025-11-20 09:34:21.900703,2025-11-20 01:35:06.556562,45,,,9d58e1a3-7ae3-4d21-965a-8c6565af8648,document_processing,"Successfully processed 12 pages, 6 chunks",
+41,3,,,completed,2025-11-20 09:35:08.069037,2025-11-20 01:35:40.432263,32,,,a6913b4a-d9ca-4c19-a717-44f0338fd492,document_processing,"Successfully processed 7 pages, 3 chunks",
+42,3,,,completed,2025-11-20 09:35:41.927882,2025-11-20 01:35:55.947541,14,,,bf7b64af-3f38-433b-af10-560233e2cea3,document_processing,"Successfully processed 5 pages, 1 chunks",
+43,3,,,completed,2025-11-20 09:35:57.745867,2025-11-20 01:36:06.449637,9,,,25ded16a-651e-4965-aa45-71d7f0d21ec7,document_processing,"Successfully processed 3 pages, 1 chunks",
+44,3,,,failed,2025-11-20 09:36:08.756879,2025-11-20 01:36:13.412335,,,,ba555823-eb9f-426b-9d1d-5eca8f0355ae,document_processing,,"Traceback (most recent call last):
+  File ""C:\Users\remya\Desktop\DocumentParser_Hackathon\dcf.py"", line 1188, in process_tender_document
+    cur.execute(""""""
+psycopg2.errors.InvalidDatetimeFormat: invalid input syntax for type timestamp: ""1 October 2025 1500 hrs SGT""
+LINE 4: ...                   submission_deadline = COALESCE('1 October...
+                                                             ^
+
+"
+45,3,,,completed,2025-11-20 09:36:15.505232,2025-11-20 01:36:24.405978,9,,,1dc1dc5a-73ca-4f65-8e94-a0f5e9f04aef,document_processing,"Successfully processed 3 pages, 1 chunks",
+46,3,,,completed,2025-11-20 09:36:26.564470,2025-11-20 01:36:55.697542,29,,,76120b92-c27b-4081-8de0-39c85ae3d97a,document_processing,"Successfully processed 5 pages, 2 chunks",
+47,3,,,completed,2025-11-20 09:36:57.816046,2025-11-20 01:38:36.907713,99,,,28e08f2d-9aa9-4bcf-b094-d9a51293e2c3,document_processing,"Successfully processed 28 pages, 14 chunks",
+48,3,,,completed,2025-11-20 09:38:39.627354,2025-11-20 02:05:37.022967,1617,,,79199262-1f09-4311-9a00-ee0c828bca7f,document_processing,"Successfully processed 5 pages, 2 chunks",
+49,3,,,completed,2025-11-20 10:05:38.822020,2025-11-20 02:06:11.286898,32,,,667a9dfe-52ae-4f57-aea6-27d89cafad65,document_processing,"Successfully processed 6 pages, 2 chunks",
+50,3,,,completed,2025-11-20 10:06:13.048333,2025-11-20 02:06:22.839303,10,,,cc441640-1d8d-4314-b83d-8713e87f7c10,document_processing,"Successfully processed 3 pages, 1 chunks",
+51,3,,,completed,2025-11-20 10:06:24.495813,2025-11-20 02:07:03.329812,39,,,7a17ae57-66f6-4dd8-9a8e-54f89b3b6b5b,document_processing,"Successfully processed 11 pages, 3 chunks",
+52,3,,,completed,2025-11-20 10:07:05.455314,2025-11-20 02:07:18.063415,13,,,5730cce4-d3fa-4590-8535-8d881e814371,document_processing,"Successfully processed 4 pages, 1 chunks",
+53,3,,,completed,2025-11-20 10:07:19.981846,2025-11-20 02:08:02.728558,43,,,9739e4d6-a727-4be4-9030-f2ea84bf67cc,document_processing,"Successfully processed 12 pages, 6 chunks",
+54,3,,,completed,2025-11-20 10:08:04.950719,2025-11-20 02:08:36.116789,31,,,72f93b0f-2cba-40a1-abf5-59975277cd4e,document_processing,"Successfully processed 7 pages, 3 chunks",
+55,3,,,completed,2025-11-20 10:08:37.884947,2025-11-20 02:08:54.347365,16,,,f53eac02-b2b6-4271-a916-b7c454cded13,document_processing,"Successfully processed 5 pages, 1 chunks",
+56,3,,,completed,2025-11-20 10:08:55.906871,2025-11-20 02:09:05.808516,10,,,5dad005e-f5db-40f1-bac1-e0f94b9ae99d,document_processing,"Successfully processed 3 pages, 1 chunks",
+57,3,,,failed,2025-11-20 10:09:08.057802,2025-11-20 02:09:12.246607,,,,26316182-ace2-4f6c-b9a5-f5b2b3ddd694,document_processing,,"Traceback (most recent call last):
+  File ""C:\Users\remya\Desktop\DocumentParser_Hackathon\dcf.py"", line 1188, in process_tender_document
+    cur.execute(""""""
+psycopg2.errors.InvalidDatetimeFormat: invalid input syntax for type timestamp: ""1 October 2025 1500 hrs SGT""
+LINE 4: ...                   submission_deadline = COALESCE('1 October...
+                                                             ^
+
+"
+58,3,,,completed,2025-11-20 10:09:13.726370,2025-11-20 02:09:22.607834,9,,,a574d8f6-dbc4-42b7-8610-66a56b90fbf8,document_processing,"Successfully processed 3 pages, 1 chunks",
+59,3,,,completed,2025-11-20 10:09:24.233765,2025-11-20 02:09:51.943331,28,,,6f611e40-f71e-44e6-89f3-ca5b04310221,document_processing,"Successfully processed 5 pages, 2 chunks",
+60,3,,,completed,2025-11-20 10:09:54.272074,2025-11-20 02:11:50.088374,116,,,b3cd3baa-83e3-4251-a23f-8a511b7d9d4b,document_processing,"Successfully processed 28 pages, 14 chunks",
+61,3,,,completed,2025-11-20 10:11:52.694043,2025-11-20 02:12:14.876803,22,,,94b38b11-1f9e-44b3-a434-213b25dafa2e,document_processing,"Successfully processed 5 pages, 2 chunks",
+62,3,,,completed,2025-11-20 10:12:17.297606,2025-11-20 02:12:47.775432,30,,,2dd425c4-88ee-42b9-8af9-eaf97370781b,document_processing,"Successfully processed 6 pages, 2 chunks",
+63,3,,,completed,2025-11-20 10:12:50.067585,2025-11-20 02:12:59.385570,9,,,d0bbe628-ec98-4518-baeb-3d21a2c6d573,document_processing,"Successfully processed 3 pages, 1 chunks",
+64,3,,,completed,2025-11-20 10:13:01.747605,2025-11-20 02:13:33.551976,32,,,ca88ce37-adbb-4a7a-a67d-a33454b83b5c,document_processing,"Successfully processed 11 pages, 3 chunks",
+65,3,,,completed,2025-11-20 10:57:10.381786,2025-11-20 02:57:40.660875,30,,,b532ba2d-d885-495b-a660-ca6b33caf550,document_processing,"Successfully processed 4 pages, 1 chunks",
+66,3,,,completed,2025-11-20 10:57:49.290938,2025-11-20 02:58:52.215143,63,,,8ff1ee89-a856-4631-81fd-919b05ba4518,document_processing,"Successfully processed 5 pages, 2 chunks",
+67,3,,,failed,2025-11-20 10:59:33.182347,2025-11-20 02:59:37.420004,,,,ba555823-eb9f-426b-9d1d-5eca8f0355ae,document_processing,,"Traceback (most recent call last):
+  File ""C:\Users\remya\Desktop\DocumentParser_Hackathon\dcf.py"", line 1188, in process_tender_document
+    cur.execute(""""""
+psycopg2.errors.InvalidDatetimeFormat: invalid input syntax for type timestamp: ""1 October 2025 1500 hrs SGT""
+LINE 4: ...                   submission_deadline = COALESCE('1 October...
+                                                             ^
+
+"
+68,3,,,failed,2025-11-20 10:59:57.661919,2025-11-20 03:00:01.310369,,,,26316182-ace2-4f6c-b9a5-f5b2b3ddd694,document_processing,,"Traceback (most recent call last):
+  File ""C:\Users\remya\Desktop\DocumentParser_Hackathon\dcf.py"", line 1188, in process_tender_document
+    cur.execute(""""""
+psycopg2.errors.InvalidDatetimeFormat: invalid input syntax for type timestamp: ""1 October 2025 1500 hrs SGT""
+LINE 4: ...                   submission_deadline = COALESCE('1 October...
+                                                             ^
+
+"

@@ -114,7 +114,7 @@
                         <tr><td>Tender Title</td><td>{{ tender.tender_title }}</td></tr>
                         <tr><td>Reference Number</td><td><strong>{{ tender.tender_reference_number }}</strong></td></tr>
                         <tr><td>Issuing Authority</td><td>{{ tender.issuing_authority }}</td></tr>
-                        <tr><td>Submission Deadline</td><td class="deadline-urgent">{{ tender.submission_deadline[:10] }} ({{ days_until_deadline }} days left)</td></tr>
+                        <tr><td>Submission Deadline</td><td class="deadline-urgent">{{ tender.submission_deadline.strftime('%Y-%m-%d') if tender.submission_deadline else 'N/A' }} ({{ days_until_deadline }} days left)</td></tr>
                         <tr><td>Project Name</td><td>{{ tender.project_name }}</td></tr>
                         <tr><td>Site Location</td><td>{{ tender.site_location }}</td></tr>
                         <tr><td>Contract Type</td><td>{{ tender.contract_type }}</td></tr>

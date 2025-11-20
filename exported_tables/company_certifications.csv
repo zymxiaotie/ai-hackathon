@@ -1,0 +1,7 @@
+certification_id,certification_name,certification_body,issue_date,expiry_date,certificate_number,status
+1,BizSAFE Level Star,Ministry of Manpower (MOM),2022-01-15,2025-12-31,SS123456,active
+2,ISO 9001 / 14001 / 45001,SGS / PSB Certification,2020-03-01,,QMS12345,active
+3,BCA Green & Gracious Builder Scheme,Building and Construction Authority (BCA),2023-07-01,2026-06-30,GGB-SG-2024-001,active
+4,Singapore BIM Framework Certification,Building and Construction Authority (BCA),2022-09-20,2025-09-19,BIM-SG-98765,active
+5,Water Efficient Building (WEB) Certification,Public Utilities Board (PUB),2023-05-10,2026-05-09,WEB-C-4567,active
+6,SkillsFuture Employer Mark,SkillsFuture Singapore (SSG),2023-11-01,2024-12-31,SFEA-2023-C-012,active

@@ -1,0 +1,293 @@
+criteria_id,tender_id,criteria_type,criteria_description,criteria_value,is_met,confidence_score,notes,checked_date,source,introduced_by_addendum_id,added_date,requires_recheck
+1,2,financial,"Provision of Performance Security as stipulated in Clause 10.1, including its period of validity (Clause 10.2) and claims handling (Clause 10.3).",,,,,,original,,2025-11-20 01:12:48.856342,False
+2,2,financial,Evidence and terms of insurance to be provided (Clause 25.1) with adequacy of insurance verified (Clause 25.2) and compliance with policy conditions (Clause 25.4).,,,,,,original,,2025-11-20 01:12:48.856342,False
+3,2,financial,Third‑party insurance covering employer’s property and other liabilities (Clause 23.1).,,,,,,original,,2025-11-20 01:12:48.856342,False
+4,2,financial,Decennial liability coverage for structural works (Clause 8.3).,,,,,,original,,2025-11-20 01:12:48.856342,False
+5,2,license,"Compliance with all applicable statutes, regulations and BCA licensing requirements (Clause 26.1).",,,,,,original,,2025-11-20 01:12:48.856342,False
+6,2,technical,"Contractor must maintain qualified staff, including a designated Safety Officer (Clause 35.4) and ensure language ability of the contractor’s representative (Clause 15.2).",,,,,,original,,2025-11-20 01:12:48.856342,False
+7,2,technical,Engagement of staff and labour in accordance with labour laws and regulations (Clause 34.1).,,,,,,original,,2025-11-20 01:12:48.856342,False
+8,2,technical,"Quality of materials, plant and workmanship must meet specified standards (Clause 36.1).",,,,,,original,,2025-11-20 01:12:48.856342,False
+9,2,technical,"Contractor’s equipment, temporary works and materials must be for exclusive use on the works and approved as per Clause 54.1‑54.7.",,,,,,original,,2025-11-20 01:12:48.856342,False
+10,2,technical,Contractor must provide a detailed programme and cash‑flow estimates (Clauses 14.1‑14.4).,,,,,,original,,2025-11-20 01:12:48.856342,False
+11,2,technical,"Regular site inspections, testing and reporting as required (Clauses 37.1‑37.5, 38.1‑38.2, 39.1‑39.2).",,,,,,original,,2025-11-20 01:12:48.856342,False
+12,2,technical,"Contractor to keep the site clear and maintain site safety, security and environmental protection (Clauses 32.1, 19.1‑19.2).",,,,,,original,,2025-11-20 01:12:48.856342,False
+13,2,technical,"Submission of records of safety and health, accident reports and maintenance of a safety officer (Clauses 35.2‑35.4).",,,,,,original,,2025-11-20 01:12:48.856342,False
+14,2,technical,Contractor’s employees must be suitably qualified and supervised (Clause 16.1).,,,,,,original,,2025-11-20 01:12:48.856342,False
+15,2,technical,Contractor must comply with BCA’s inspection and approval processes for variations and dayworks (Clauses 51.1‑52.4).,,,,,,original,,2025-11-20 01:12:48.856342,False
+16,2,license,Submission of the Completed BCA Tender Form (BCA/Tender Form – Fixed Price) indicating registration with the Building and Construction Authority.,,,,,,original,,2025-11-20 01:13:47.171349,False
+17,2,license,Statutory Declarations confirming Tax Clearance and compliance with the Workplace Safety and Health Act (WSHA).,,,,,,original,,2025-11-20 01:13:47.171349,False
+18,2,license,"Compliance with all applicable BCA standards and Singapore Standards (e.g., BCA Code of Practice for Structural Works, SS 550, LTA Guidelines).",,,,,,original,,2025-11-20 01:13:47.171349,False
+19,2,financial,"Provision of a performance bond equal to 5% of the contract value, to be submitted within 14 days of contract award.",,,,,,original,,2025-11-20 01:13:47.171349,False
+20,2,financial,Contractor’s All Risks (CAR) insurance covering the full contract value.,,,,,,original,,2025-11-20 01:13:47.171349,False
+21,2,financial,"Public Liability Insurance with a minimum coverage of SGD 10,000,000 per occurrence.",,,,,,original,,2025-11-20 01:13:47.171349,False
+22,2,financial,Submission of a detailed Financial Proposal including a breakdown of the fixed price and unit rates for re‑measurable items.,,,,,,original,,2025-11-20 01:13:47.171349,False
+23,2,experience,Company profile must demonstrate a minimum of three (3) similar structural strengthening and concrete repair projects.,,,,,,original,,2025-11-20 01:13:47.171349,False
+24,2,experience,Relevant Project Experience will be evaluated (15% weighting) as part of the technical evaluation.,,,,,,original,,2025-11-20 01:13:47.171349,False
+25,2,technical,"Technical Proposal must detail the project methodology, programme schedule, and quality control plan.",,,,,,original,,2025-11-20 01:13:47.171349,False
+26,2,technical,Compliance with the Scope of Works (20% weighting) as part of the technical evaluation.,,,,,,original,,2025-11-20 01:13:47.171349,False
+27,2,technical,Methodology and Programme submission (15% weighting) as part of the technical evaluation.,,,,,,original,,2025-11-20 01:13:47.171349,False
+28,2,technical,Quality Assurance & Safety Plan (10% weighting) as part of the technical evaluation.,,,,,,original,,2025-11-20 01:13:47.171349,False
+29,2,technical,"Capability to execute concrete repair, steel reinforcement installation, post‑tensioning, and associated temporary works (shoring, propping).",,,,,,original,,2025-11-20 01:13:47.171349,False
+30,2,technical,"Ability to manage site works including traffic and pedestrian management, waste disposal, and site housekeeping in accordance with LTA guidelines and BCA environmental requirements.",,,,,,original,,2025-11-20 01:13:47.171349,False
+31,2,license,"Statutory Declarations must be submitted, including Tax Clearance and WSHA (Workplace Safety and Health Act) compliance, confirming the contractor’s registration and legal standing.",,,,,,original,,2025-11-20 01:15:08.497454,False
+32,2,license,"Completion of the mandatory BCA/Tender Form – Fixed Price, indicating registration with the Building and Construction Authority (BCA).",,,,,,original,,2025-11-20 01:15:08.497454,False
+33,2,financial,"A performance bond equal to 5% of the contract value (SGD 450,000) must be submitted within 14 days of contract award.",,,,,,original,,2025-11-20 01:15:08.497454,False
+34,2,financial,Contractor’s All Risks (CAR) insurance covering the full contract value is required.,,,,,,original,,2025-11-20 01:15:08.497454,False
+35,2,financial,"Public Liability Insurance with a minimum coverage of SGD 10,000,000 per occurrence must be provided.",,,,,,original,,2025-11-20 01:15:08.497454,False
+36,2,financial,A detailed Financial Proposal (breakdown of fixed price and unit rates for re‑measurable items) must be submitted as part of the tender package.,,,,,,original,,2025-11-20 01:15:08.497454,False
+37,2,experience,Company Profile must demonstrate a minimum of three (3) similar structural strengthening and concrete repair projects.,,,,,,original,,2025-11-20 01:15:08.497454,False
+38,2,experience,Relevant Project Experience will be evaluated (15% of technical evaluation) and must be documented in the tender.,,,,,,original,,2025-11-20 01:15:08.497454,False
+39,2,technical,"Technical Proposal must detail the methodology, programme, and quality control plan for the works.",,,,,,original,,2025-11-20 01:15:08.497454,False
+40,2,technical,"Compliance with the Scope of Works (20% of technical evaluation) is required, covering civil, structural, architectural, M&E, and site works.",,,,,,original,,2025-11-20 01:15:08.497454,False
+41,2,technical,"Methodology and Programme (15% of technical evaluation) must be presented, showing sequencing of inspection, design, reinforcement, concrete repair, and post‑tensioning.",,,,,,original,,2025-11-20 01:15:08.497454,False
+42,2,technical,"Quality Assurance & Safety Plan (10% of technical evaluation) must be provided, meeting BCA Code of Practice, SS 550, LTA Guidelines, and WSHA requirements.",,,,,,original,,2025-11-20 01:15:08.497454,False
+43,2,technical,"Contractor must possess equipment and manpower for concrete repair, steel reinforcement installation, post‑tensioning, and temporary works (shoring, propping).",,,,,,original,,2025-11-20 01:15:08.497454,False
+44,2,technical,Capability to manage traffic and pedestrian flow in accordance with LTA guidelines is required.,,,,,,original,,2025-11-20 01:15:08.497454,False
+45,2,license,Tenderer must be registered with the Building and Construction Authority (BCA) and comply with BCA Technical Guidelines and any applicable LTA requirements.,,,,,,original,,2025-11-20 01:15:50.997401,False
+46,2,financial,"Provide a tender security equal to 2 % of the contract value (SGD 9,000) in the form of a bank guarantee, demand draft or certified cheque, valid for 180 days from the Closing Date.",,,,,,original,,2025-11-20 01:15:50.997401,False
+47,2,financial,Provide a performance bond equal to 10 % of the contract value as stipulated in Clause 4.1 of the contract.,,,,,,original,,2025-11-20 01:15:50.997401,False
+48,2,financial,"Maintain public liability insurance with a minimum coverage of SGD 5,000,000 and workers’ compensation insurance in accordance with the Workplace Safety and Health Act, and submit the insurance certificates with the tender.",,,,,,original,,2025-11-20 01:15:50.997401,False
+49,2,experience,Demonstrate past experience on similar repair and strengthening works for BCA projects (evaluation weight 10 %).,,,,,,original,,2025-11-20 01:15:50.997401,False
+50,2,experience,Submit a company profile and relevant project experience (Annex B) as part of the tender documents.,,,,,,original,,2025-11-20 01:15:50.997401,False
+51,2,technical,"Comply with all Technical Specifications, i.e., Singapore Standard (SS) specifications applicable to repair and strengthening works, and BCA Technical Guidelines (evaluation weight 40 %).",,,,,,original,,2025-11-20 01:15:50.997401,False
+52,2,technical,Submit a detailed Project Programme (Gantt chart) and Resource Plan (evaluation weight 15 %).,,,,,,original,,2025-11-20 01:15:50.997401,False
+53,2,technical,Provide a Health & Safety Plan (Annex C) and adhere to the BCA Safety Management System and SS 638 (Construction – Safety).,,,,,,original,,2025-11-20 01:15:50.997401,False
+54,2,technical,"All personnel attending the mandatory site visit must wear required safety gear (hard hat, high‑visibility vest, safety shoes).",,,,,,original,,2025-11-20 01:15:50.997401,False
+55,2,license,Provide a BCA‑approved Safety Management Plan.,,,,,,original,,2025-11-20 01:16:55.576838,False
+56,2,license,Submit compliance certificates for all referenced Singapore Standards.,,,,,,original,,2025-11-20 01:16:55.576838,False
+57,2,license,Hold ISO 9001:2015 certification for quality management.,,,,,,original,,2025-11-20 01:16:55.576838,False
+58,2,license,"Maintain valid Public Liability Insurance of at least SGD 2,000,000.",,,,,,original,,2025-11-20 01:16:55.576838,False
+59,2,license,Obtain a Bank Guarantee equal to 5 % of the Contract Value from a first‑class international bank or a leading Singapore bank approved by the Employer.,,,,,,original,,2025-11-20 01:16:55.576838,False
+60,2,license,Provide a Performance Bond equal to 10 % of the Contract Value.,,,,,,original,,2025-11-20 01:16:55.576838,False
+61,2,financial,Include a Bank Guarantee of 5 % of the Contract Value with the tender submission.,,,,,,original,,2025-11-20 01:16:55.576838,False
+62,2,financial,Provide a Performance Bond of 10 % of the Contract Value as performance security.,,,,,,original,,2025-11-20 01:16:55.576838,False
+63,2,financial,"Supply evidence of Public Liability Insurance covering at least SGD 2,000,000.",,,,,,original,,2025-11-20 01:16:55.576838,False
+64,2,financial,Complete the Tender Price Schedule (Appendix B) with a detailed breakdown of costs.,,,,,,original,,2025-11-20 01:16:55.576838,False
+65,2,experience,Submit a Company Profile demonstrating relevant experience on similar repair and strengthening projects.,,,,,,original,,2025-11-20 01:16:55.576838,False
+66,2,experience,Provide CVs of key personnel showing appropriate expertise and experience.,,,,,,original,,2025-11-20 01:16:55.576838,False
+67,2,experience,Demonstrate prior experience on structural repair and strengthening works as part of the technical evaluation.,,,,,,original,,2025-11-20 01:16:55.576838,False
+68,2,technical,Submit a detailed Method Statement and Work Programme (Appendix C).,,,,,,original,,2025-11-20 01:16:55.576838,False
+69,2,technical,Provide compliance certificates for all referenced Singapore Standards.,,,,,,original,,2025-11-20 01:16:55.576838,False
+70,2,technical,Include ISO 9001:2015 certification as proof of quality management.,,,,,,original,,2025-11-20 01:16:55.576838,False
+71,2,technical,Provide a BCA‑approved Safety Management Plan.,,,,,,original,,2025-11-20 01:16:55.576838,False
+72,2,technical,"If applicable, submit an Environmental Impact Assessment Report.",,,,,,original,,2025-11-20 01:16:55.576838,False
+73,3,license,Contractor must be registered with the Singapore Building and Construction Authority (BCA) and comply with all relevant BCA Codes of Practice and safety guidelines.,,,,,,original,,2025-11-20 01:23:24.725994,False
+74,3,financial,Contractor shall furnish a Performance Bond equal to 10% of the Contract Price.,,,,,,original,,2025-11-20 01:23:24.725994,False
+75,3,financial,All works shall be covered by Contractor’s All Risks (CAR) insurance for the duration of the contract.,,,,,,original,,2025-11-20 01:23:24.725994,False
+76,3,financial,A retention amount of 5% of each payment shall be held until the issuance of the Defects Certificate.,,,,,,original,,2025-11-20 01:23:24.725994,False
+77,3,technical,All civil works must conform to the BCA Code of Practice for Structural Design (SS 554) and applicable LTA guidelines.,,,,,,original,,2025-11-20 01:23:24.725994,False
+78,3,technical,"Architectural finishes must meet the HDB Design Guidelines for Residential Developments, including Accessibility Code 117.",,,,,,original,,2025-11-20 01:23:24.725994,False
+79,3,technical,Mechanical services must comply with Singapore Standard SS 638 for HVAC systems.,,,,,,original,,2025-11-20 01:23:24.725994,False
+80,3,technical,Electrical installations must be in accordance with the BCA Electrical Installation Code (SS 638) and the Energy Conservation Act.,,,,,,original,,2025-11-20 01:23:24.725994,False
+81,3,technical,Fire detection and alarm systems must meet the SCDF Fire Code and Singapore Standard SS 587.,,,,,,original,,2025-11-20 01:23:24.725994,False
+82,3,technical,Project must adhere to the BCA Green Mark Scheme (2023 Edition) for sustainability.,,,,,,original,,2025-11-20 01:23:24.725994,False
+83,3,license,"Contractor must comply with all applicable Singapore standards, including Building and Construction Authority (BCA), Land Transport Authority (LTA) and Singapore Standards (SS) codes.",,,,,,original,,2025-11-20 01:23:50.419734,False
+84,3,experience,"Contractor represents and warrants that it has the expertise, experience and ability to carry out and complete the works fully in accordance with the contract.",,,,,,original,,2025-11-20 01:23:50.419734,False
+85,3,experience,"Contractor must possess the highest level of competence, knowledge and skill expected of an experienced local contractor.",,,,,,original,,2025-11-20 01:23:50.419734,False
+86,3,experience,Contractor must be a professionally qualified and competent designer experienced in work of a similar nature and scope.,,,,,,original,,2025-11-20 01:23:50.419734,False
+87,3,technical,"Contractor shall provide all superintendence, labour, materials, plant, equipment and other things required for design, execution, completion and remedying of any defects.",,,,,,original,,2025-11-20 01:23:50.419734,False
+88,3,technical,"Works shall be designed using proven up‑to‑date good practice and to standards consistent with the contract and applicable Singapore standards (BCA, LTA, SS).",,,,,,original,,2025-11-20 01:23:50.419734,False
+89,3,technical,"Completed works must comply with all applicable rules, regulations and codes having the force of law in Singapore.",,,,,,original,,2025-11-20 01:23:50.419734,False
+90,3,license,Contractor must be a registered contractor with the Building and Construction Authority (BCA) of Singapore and comply with BCA Singapore Building Regulations and Code of Practice.,,,,,,original,,2025-11-20 01:25:52.999559,False
+91,3,license,"Contractor must hold the appropriate BCA grading (e.g., Class 1 or Class 2) required for residential development projects.",,,,,,original,,2025-11-20 01:25:52.999559,False
+92,3,financial,"Contractor must demonstrate sufficient financial strength to support a contract value of SGD 150 million, assessed under the “Financial Strength – 20%” evaluation criterion.",,,,,,original,,2025-11-20 01:25:52.999559,False
+93,3,financial,Contractor must provide a bank guarantee covering the mobilisation payment (10% of contract value) as part of the tender submission.,,,,,,original,,2025-11-20 01:25:52.999559,False
+94,3,financial,Contractor must submit audited financial statements for the last three financial years.,,,,,,original,,2025-11-20 01:25:52.999559,False
+95,3,experience,"Contractor must have completed similar residential or mixed‑use development projects of comparable scale (approximately 1,200 units) within the last 5 years.",,,,,,original,,2025-11-20 01:25:52.999559,False
+96,3,experience,"Contractor must have demonstrated experience in civil, structural, mechanical, electrical, and plumbing works in accordance with Singapore BCA and LTA standards.",,,,,,original,,2025-11-20 01:25:52.999559,False
+97,3,experience,Contractor must have successfully delivered projects with a contract value of at least SGD 50 million.,,,,,,original,,2025-11-20 01:25:52.999559,False
+98,3,technical,"Contractor must possess the technical capability to execute the full scope of works (civil, structural, architectural, mechanical, electrical, and external works), evaluated at 40% of the overall score.",,,,,,original,,2025-11-20 01:25:52.999559,False
+99,3,technical,"Contractor must have in‑house qualified engineers and specialists for structural design, HVAC, fire‑fighting systems, and renewable energy integration (solar PV).",,,,,,original,,2025-11-20 01:25:52.999559,False
+100,3,technical,"Contractor must own or have access to plant and equipment required for earthworks, piling, concrete works, and M&E installation.",,,,,,original,,2025-11-20 01:25:52.999559,False
+101,3,technical,"Contractor must provide a qualified workforce of skilled tradesmen and supervisors, with documented competency and training records.",,,,,,original,,2025-11-20 01:25:52.999559,False
+102,3,technical,"Contractor must submit a Quality Assurance Plan, Safety Management Plan, and Environmental Management Plan as part of the tender.",,,,,,original,,2025-11-20 01:25:52.999559,False
+103,3,technical,"All works must comply with relevant Singapore Standards (SS 550, SS 636, SS 638) and Land Transport Authority (LTA) requirements for road and utility interfaces.",,,,,,original,,2025-11-20 01:25:52.999559,False
+104,3,license,"Contractor must comply with all applicable statutes and regulations, including any required Building and Construction Authority (BCA) registrations or grades.",,,,,,original,,2025-11-20 01:26:39.080134,False
+105,3,financial,"Provision of a Performance Security in the amount and form specified, valid for the period required by the contract.",,,,,,original,,2025-11-20 01:26:39.080134,False
+106,3,financial,Submission of detailed cash‑flow estimates as part of the tender documentation.,,,,,,original,,2025-11-20 01:26:39.080134,False
+107,3,financial,"Monthly statements and payments, including retention money, must be submitted in accordance with the contract schedule.",,,,,,original,,2025-11-20 01:26:39.080134,False
+108,3,financial,"Adequate insurance coverage for works, contractor’s equipment, third‑party liability and accidents must be maintained throughout the contract period.",,,,,,original,,2025-11-20 01:26:39.080134,False
+109,3,experience,"Contractor must demonstrate prior experience in residential redevelopment projects of comparable scale (e.g., projects valued at or above SGD 100 million).",,,,,,original,,2025-11-20 01:26:39.080134,False
+110,3,experience,Evidence of successful completion of similar projects within a 36‑month contract period is required.,,,,,,original,,2025-11-20 01:26:39.080134,False
+111,3,technical,"Appointment of a qualified Safety Officer responsible for safety, security and environmental protection on site.",,,,,,original,,2025-11-20 01:26:39.080134,False
+112,3,technical,Contractor’s representative must possess sufficient language ability to communicate effectively with the Employer Representative.,,,,,,original,,2025-11-20 01:26:39.080134,False
+113,3,technical,Contractor must provide sufficient manpower (employees) and skilled labour to meet the programme requirements.,,,,,,original,,2025-11-20 01:26:39.080134,False
+114,3,technical,"All plant, equipment and temporary works used on the site must be owned or hired by the contractor and approved by the Employer Representative.",,,,,,original,,2025-11-20 01:26:39.080134,False
+115,3,technical,"Materials, plant and workmanship must meet the quality standards set out in the contract specifications, with required inspections and testing.",,,,,,original,,2025-11-20 01:26:39.080134,False
+116,3,technical,Contractor must submit a detailed construction programme and any revised programmes as required.,,,,,,original,,2025-11-20 01:26:39.080134,False
+117,3,technical,"Compliance with transport and handling requirements for equipment, materials and plant, including road and waterborne traffic regulations.",,,,,,original,,2025-11-20 01:26:39.080134,False
+118,3,license,Submission of a valid Singapore Business Registration Certificate.,,,,,,original,,2025-11-20 01:27:37.728965,False
+119,3,license,Submission of a valid Municipality Trade Licence.,,,,,,original,,2025-11-20 01:27:37.728965,False
+120,3,financial,Tender must remain valid for 120 days from the closing date.,,,,,,original,,2025-11-20 01:27:37.728965,False
+121,3,technical,Provide a Company Organization Chart as part of the Company Organization & Capabilities documentation.,,,,,,original,,2025-11-20 01:27:37.728965,False
+122,3,technical,Provide details of the management team (Management information) as part of the Company Organization & Capabilities documentation.,,,,,,original,,2025-11-20 01:27:37.728965,False
+123,3,technical,Tender must be signed by the principal of the firm or an authorized representative.,,,,,,original,,2025-11-20 01:27:37.728965,False
+124,3,technical,All pages of the original tender documents must be stamped with the company seal and initialed by the signatory.,,,,,,original,,2025-11-20 01:27:37.728965,False
+125,3,technical,All prices must be extended in ink on the original hard‑copy tender documents.,,,,,,original,,2025-11-20 01:27:37.728965,False
+126,3,license,All tender submissions must be prepared in accordance with Singapore Building and Construction Authority (BCA) standards and relevant Singapore Standards (SS).,,,,,,original,,2025-11-20 01:28:32.836572,False
+127,3,license,The tenderer shall certify that it is qualified and capable of executing the works as described in the tender documents.,,,,,,original,,2025-11-20 01:28:32.836572,False
+128,3,financial,"Provide a bid security equivalent to 2% of the contract value (SGD 3.0 million) in the form of a bank guarantee or standby letter of credit, valid for 90 days from the closing date.",,,,,,original,,2025-11-20 01:28:32.836572,False
+129,3,financial,Provide a performance security amounting to 10% of the contract price as stipulated in the General Conditions.,,,,,,original,,2025-11-20 01:28:32.836572,False
+130,3,financial,"Submit a tender guarantee of S$3,000,000 in the form of an unconditional and irrevocable bank guarantee issued or confirmed by a first‑class international bank or leading Singapore bank approved by the employer.",,,,,,original,,2025-11-20 01:28:32.836572,False
+131,3,financial,Tender validity period of 120 days from the closing date.,,,,,,original,,2025-11-20 01:28:32.836572,False
+132,3,experience,Demonstrate experience and past performance on similar residential development projects.,,,,,,original,,2025-11-20 01:28:32.836572,False
+133,3,experience,Provide evidence of the ability to complete the works within the 36‑month contract period.,,,,,,original,,2025-11-20 01:28:32.836572,False
+134,3,technical,"Technical compliance with the Scope of Works and Singapore standards (BCA, LTA, SS).",,,,,,original,,2025-11-20 01:28:32.836572,False
+135,3,technical,Adhere to the relevant BCA Code of Practice and applicable Land Transport Authority (LTA) guidelines where applicable.,,,,,,original,,2025-11-20 01:28:32.836572,False
+136,3,technical,Possess the necessary equipment and manpower to execute the works as per the programme schedule.,,,,,,original,,2025-11-20 01:28:32.836572,False
+137,3,license,"Contractor must be registered with the Building and Construction Authority (BCA) and comply with the BCA Code of Practice 2013 and all relevant BCA standards (e.g., Structural Steel Code, Fire Code).",,,,,,original,,2025-11-20 01:29:38.880117,False
+138,3,financial,Provide a performance bond equal to 5% of the contract value within 14 days of award.,,,,,,original,,2025-11-20 01:29:38.880117,False
+139,3,financial,Submit evidence of bonding capacity as part of the supporting documents.,,,,,,original,,2025-11-20 01:29:38.880117,False
+140,3,financial,Tender must remain valid for 120 days from the closing date.,,,,,,original,,2025-11-20 01:29:38.880117,False
+141,3,financial,Prepare a detailed financial proposal with a Bill of Quantities (BOQ) priced at unit rates and a consolidated price summary.,,,,,,original,,2025-11-20 01:29:38.880117,False
+142,3,experience,Provide details of a minimum of three similar residential projects in the company profile/experience section.,,,,,,original,,2025-11-20 01:29:38.880117,False
+143,3,experience,Demonstrate successful delivery of residential projects within budget and schedule (as evaluated under the Experience weighting).,,,,,,original,,2025-11-20 01:29:38.880117,False
+144,3,technical,"Submit a technical proposal that includes method statements, a programme (Gantt chart), a Quality Assurance Plan, a Health & Safety Plan, and an Environmental Management Plan.",,,,,,original,,2025-11-20 01:29:38.880117,False
+145,3,technical,Provide CVs of key personnel to prove required manpower and qualifications.,,,,,,original,,2025-11-20 01:29:38.880117,False
+146,3,technical,"Comply with all applicable Singapore Standards and guidelines (e.g., SS 554, SS 638, LTA Design Guidelines, HDB Landscape Guidelines, Code on Accessibility in the Built Environment).",,,,,,original,,2025-11-20 01:29:38.880117,False
+147,3,license,Contractor must be registered and comply with the Singapore Building and Construction Authority (BCA) Code of Practice for all works.,,,,,,original,,2025-11-20 01:30:22.810443,False
+148,3,license,Civil works shall conform to the BCA Code of Practice for Structural Design (SS 554) and applicable LTA guidelines.,,,,,,original,,2025-11-20 01:30:22.810443,False
+149,3,license,Electrical installations shall be in accordance with the BCA Electrical Installation Code (SS 638) and the Energy Conservation Act.,,,,,,original,,2025-11-20 01:30:22.810443,False
+150,3,license,Mechanical services shall comply with Singapore Standard SS 638 for HVAC systems.,,,,,,original,,2025-11-20 01:30:22.810443,False
+151,3,license,Fire detection and alarm systems shall meet the SCDF Fire Code and SS 587.,,,,,,original,,2025-11-20 01:30:22.810443,False
+152,3,financial,Contractor shall furnish a Performance Bond equal to 10% of the Contract Price.,,,,,,original,,2025-11-20 01:30:22.810443,False
+153,3,financial,All works shall be covered by Contractor’s All Risks (CAR) insurance for the duration of the contract.,,,,,,original,,2025-11-20 01:30:22.810443,False
+154,3,financial,Retention of 5% of each payment shall be held until issuance of the Defects Certificate.,,,,,,original,,2025-11-20 01:30:22.810443,False
+155,3,experience,No explicit experience requirements are stated in the provided document.,,,,,,original,,2025-11-20 01:30:22.810443,False
+156,3,technical,"Contractor shall design, supply, install, test and commission all works in accordance with the Drawings, Specifications and the BCA Code of Practice.",,,,,,original,,2025-11-20 01:30:22.810443,False
+157,3,technical,"Architectural finishes shall meet the HDB Design Guidelines for Residential Developments, including accessibility standards (Code 117).",,,,,,original,,2025-11-20 01:30:22.810443,False
+158,3,technical,All site activities shall comply with the Workplace Safety and Health Act and BCA safety guidelines.,,,,,,original,,2025-11-20 01:30:22.810443,False
+159,3,technical,Contractor shall maintain a Site Safety Plan approved by the Procuring Authority.,,,,,,original,,2025-11-20 01:30:22.810443,False
+160,3,technical,Contractor shall submit a Programme of Works within 14 days of the Commencement Date for approval.,,,,,,original,,2025-11-20 01:30:22.810443,False
+161,3,technical,Mobilisation shall be completed within 30 calendar days of the Commencement Date.,,,,,,original,,2025-11-20 01:30:22.810443,False
+162,3,technical,Foundations shall be designed for the soil conditions as reported in the Geotechnical Investigation Report (Ref. GTR‑2025‑01).,,,,,,original,,2025-11-20 01:30:22.810443,False
+163,3,technical,"Sustainability shall be demonstrated in accordance with the BCA Green Mark Scheme, 2023 Edition.",,,,,,original,,2025-11-20 01:30:22.810443,False
+164,3,license,"Contractor must hold the appropriate licences/registrations and be able to comply with the Building and Construction Authority (BCA) grades, Land Transport Authority (LTA) requirements and Singapore Standards (SS) codes applicable to residential development works.",,,,,,original,,2025-11-20 01:30:52.706912,False
+165,3,experience,"Contractor must demonstrate expertise, experience and ability to design, execute, complete and remedy defects for works of similar nature and scope, possessing the highest level of competence, knowledge and skill expected of an experienced local contractor.",,,,,,original,,2025-11-20 01:30:52.706912,False
+166,3,experience,Contractor must employ a professionally qualified and competent designer who has prior experience in projects of comparable size and complexity.,,,,,,original,,2025-11-20 01:30:52.706912,False
+167,3,technical,"Contractor shall provide all superintendence, labour, materials, plant, equipment and other resources required for design, execution, completion and defect remediation as specified or reasonably inferred from the contract.",,,,,,original,,2025-11-20 01:30:52.706912,False
+168,3,technical,"All design and construction activities must comply with applicable Singapore standards, including BCA, LTA and SS codes, and with all relevant rules, regulations and legal codes in force.",,,,,,original,,2025-11-20 01:30:52.706912,False
+169,3,technical,"Contractor must submit detailed drawings, specifications, calculations and related information for Employer Representative approval prior to commencing design‑related works.",,,,,,original,,2025-11-20 01:30:52.706912,False
+170,3,technical,"Upon completion of permanent works, contractor must provide operation and maintenance manuals together with as‑built drawings sufficient for the Employer to operate, maintain, dismantle, re‑assemble and adjust the works.",,,,,,original,,2025-11-20 01:30:52.706912,False
+171,3,technical,"Designs must be based on proven, up‑to‑date good practice and standards consistent with the contract and applicable Singapore standards.",,,,,,original,,2025-11-20 01:30:52.706912,False
+172,3,license,Contractor must be registered with the Building and Construction Authority (BCA) and comply with Singapore Building Regulations and the BCA Code of Practice.,,,,,,original,,2025-11-20 01:33:02.127606,False
+173,3,license,"Contractor must hold the appropriate BCA grading (e.g., Class 1/2) required for residential development projects.",,,,,,original,,2025-11-20 01:33:02.127606,False
+174,3,financial,"Demonstrate sufficient financial strength (evaluated as 20% of total evaluation) – typically through audited financial statements, turnover, net worth and a bank guarantee for the mobilisation payment.",,,,,,original,,2025-11-20 01:33:02.127606,False
+175,3,financial,Provide a bank guarantee to secure the mobilisation payment as stipulated in the payment milestones.,,,,,,original,,2025-11-20 01:33:02.127606,False
+176,3,experience,"Relevant project experience in mixed‑use residential developments of comparable scale (approximately 1,200 units and SGD 150 million contract value) – weighted 30% of the evaluation.",,,,,,original,,2025-11-20 01:33:02.127606,False
+177,3,experience,"Previous successful delivery of civil, structural, mechanical, electrical and plumbing works in accordance with BCA, LTA and Singapore Standards.",,,,,,original,,2025-11-20 01:33:02.127606,False
+178,3,technical,"Technical capability assessed (40% of total evaluation) – includes availability of skilled tradesmen, plant, machinery, equipment and the ability to meet BCA, SS and LTA technical standards.",,,,,,original,,2025-11-20 01:33:02.127606,False
+179,3,technical,"Provision of all supervision, labour, materials, temporary works, plant, machinery, equipment, tools, supplies, transportation and logistics necessary for the works.",,,,,,original,,2025-11-20 01:33:02.127606,False
+180,3,technical,All work shall be executed by skilled tradesmen who are thoroughly acquainted with their trade and local customs.,,,,,,original,,2025-11-20 01:33:02.127606,False
+181,3,technical,"Capability to deliver fire‑fighting systems, HVAC, plumbing, electrical and renewable energy (solar PV) installations in compliance with the relevant Singapore Standards (e.g., SS 638, SS 550, SS 636).",,,,,,original,,2025-11-20 01:33:02.127606,False
+182,3,technical,"Compliance with sustainability and ESG requirements, evaluated as 10% of the total evaluation.",,,,,,original,,2025-11-20 01:33:02.127606,False
+183,3,license,Tenderer must submit a copy of its Singapore Business Registration Certificate with the tender submission.,,,,,,original,,2025-11-20 01:34:31.340311,False
+184,3,license,Tenderer must submit a copy of its Municipality Trade Licence with the tender submission.,,,,,,original,,2025-11-20 01:34:31.340311,False
+185,3,financial,Tender must remain valid for a period of 120 days from the tender closing date.,,,,,,original,,2025-11-20 01:34:31.340311,False
+186,3,technical,Tenderer must provide a Company Organization Chart as part of the Company Organization & Capabilities documentation.,,,,,,original,,2025-11-20 01:34:31.340311,False
+187,3,technical,Tenderer must provide details of its management team as part of the Company Organization & Capabilities documentation.,,,,,,original,,2025-11-20 01:34:31.340311,False
+188,3,technical,"Tender must be signed by the principal of the firm or an authorised representative, and the registered name and address must be printed in block capitals.",,,,,,original,,2025-11-20 01:34:31.340311,False
+189,3,license,All tender submissions must be prepared in accordance with Singapore Building and Construction Authority (BCA) standards and relevant Singapore Standards (SS).,,,,,,original,,2025-11-20 01:35:18.827966,False
+190,3,license,The tenderer shall certify that it is qualified and capable of executing the works as described in the tender documents.,,,,,,original,,2025-11-20 01:35:18.827966,False
+191,3,financial,"Provide a bid security equivalent to 2% of the contract value (SGD 3.0 million) in the form of a bank guarantee or standby letter of credit, valid for 90 days from the closing date.",,,,,,original,,2025-11-20 01:35:18.827966,False
+192,3,financial,Provide a performance security amounting to 10% of the contract price as stipulated in the General Conditions.,,,,,,original,,2025-11-20 01:35:18.827966,False
+193,3,financial,"Submit a tender guarantee of S$3,000,000 in the form of an unconditional and irrevocable bank guarantee issued or confirmed by an approved first‑class international or leading Singapore bank.",,,,,,original,,2025-11-20 01:35:18.827966,False
+194,3,experience,Demonstrate experience and past performance on similar residential development projects.,,,,,,original,,2025-11-20 01:35:18.827966,False
+195,3,experience,Provide evidence of the ability to complete the works within the 36‑month contract period (programme capability).,,,,,,original,,2025-11-20 01:35:18.827966,False
+196,3,technical,"Achieve technical compliance with the Scope of Works and Singapore standards (BCA, LTA, SS).",,,,,,original,,2025-11-20 01:35:18.827966,False
+197,3,technical,"Submit technical specifications as required in Appendix 2 (BCA, SS).",,,,,,original,,2025-11-20 01:35:18.827966,False
+198,3,technical,Possess the necessary equipment and manpower to execute the residential development works within the stipulated schedule.,,,,,,original,,2025-11-20 01:35:18.827966,False
+199,3,technical,Obtain the insurance required by the tender before commencing the works.,,,,,,original,,2025-11-20 01:35:18.827966,False
+200,3,license,Contractor must be registered with the Singapore Building and Construction Authority (BCA) and comply with the BCA Code of Practice for all works.,,,,,,original,,2025-11-20 01:36:39.028880,False
+201,3,financial,"Contractor must furnish a Performance Bond equal to 10% of the Contract Price (SGD 150,000,000).",,,,,,original,,2025-11-20 01:36:39.028880,False
+202,3,financial,Contractor must maintain Contractor’s All Risks (CAR) insurance for the duration of the contract.,,,,,,original,,2025-11-20 01:36:39.028880,False
+203,3,financial,Tender validity period of 120 days from the closing date.,,,,,,original,,2025-11-20 01:36:39.028880,False
+204,3,technical,"Contractor shall design, supply, install, test and commission all works in accordance with the Drawings, Specifications and the BCA Code of Practice.",,,,,,original,,2025-11-20 01:36:39.028880,False
+205,3,technical,All civil works shall conform to the BCA Code of Practice for Structural Design (SS 554) and applicable LTA guidelines.,,,,,,original,,2025-11-20 01:36:39.028880,False
+206,3,technical,Foundations shall be designed in accordance with the Geotechnical Investigation Report (Ref. GTR‑2025‑01).,,,,,,original,,2025-11-20 01:36:39.028880,False
+207,3,technical,Architectural finishes shall meet the HDB Design Guidelines for Residential Developments and accessibility standards (Code 117).,,,,,,original,,2025-11-20 01:36:39.028880,False
+208,3,technical,Mechanical services shall comply with Singapore Standard SS 638 for HVAC systems.,,,,,,original,,2025-11-20 01:36:39.028880,False
+209,3,technical,Electrical installations shall be in accordance with the BCA Electrical Installation Code (SS 638) and the Energy Conservation Act.,,,,,,original,,2025-11-20 01:36:39.028880,False
+210,3,technical,Fire detection and alarm systems shall meet the SCDF Fire Code and SS 587.,,,,,,original,,2025-11-20 01:36:39.028880,False
+211,3,technical,Project must comply with the BCA Green Mark Scheme (2023 Edition) for sustainability.,,,,,,original,,2025-11-20 01:36:39.028880,False
+212,3,technical,Contractor shall maintain a Site Safety Plan approved by the Procuring Authority.,,,,,,original,,2025-11-20 01:36:39.028880,False
+213,3,technical,Programme of Works must be submitted within 14 days of the Commencement Date for approval.,,,,,,original,,2025-11-20 01:36:39.028880,False
+214,3,technical,Mobilisation shall be completed within 30 calendar days of the Commencement Date.,,,,,,original,,2025-11-20 01:36:39.028880,False
+215,3,technical,All site activities shall comply with the Workplace Safety and Health Act and BCA safety guidelines.,,,,,,original,,2025-11-20 01:36:39.028880,False
+216,3,license,"Contractor must be registered with the Building and Construction Authority (BCA) and satisfy any applicable BCA grading requirements, as the works must comply with BCA, LTA and SS standards.",,,,,,original,,2025-11-20 01:37:08.617588,False
+217,3,experience,"Contractor must have the expertise, experience and ability to carry out and complete the works fully in accordance with the contract.",,,,,,original,,2025-11-20 01:37:08.617588,False
+218,3,experience,Contractor must employ a professionally qualified and competent designer who is experienced in work of a similar nature and scope.,,,,,,original,,2025-11-20 01:37:08.617588,False
+219,3,technical,"Contractor must provide all superintendence, labour, materials, plant, equipment and any other items required for the design, execution, completion and remedying of defects.",,,,,,original,,2025-11-20 01:37:08.617588,False
+220,3,technical,"All works must comply with applicable Singapore standards, including BCA, LTA and SS codes, unless otherwise stipulated.",,,,,,original,,2025-11-20 01:37:08.617588,False
+221,3,technical,Designs must be prepared using proven up‑to‑date good practice and standards consistent with the contract and applicable Singapore standards.,,,,,,original,,2025-11-20 01:37:08.617588,False
+222,3,technical,"Completed works must comply with all applicable rules, regulations and codes having the force of law in Singapore.",,,,,,original,,2025-11-20 01:37:08.617588,False
+223,3,license,Contractor must be a licensed contractor registered with the Building and Construction Authority (BCA) of Singapore and must comply with the BCA Singapore Building Regulations and Code of Practice.,,,,,,original,,2025-11-20 02:05:51.042400,False
+224,3,license,"Contractor must hold the appropriate BCA grading (e.g., Class 1 or Class 2) required for residential development projects.",,,,,,original,,2025-11-20 02:05:51.042400,False
+225,3,financial,Contractor must demonstrate sufficient financial strength to support a SGD 150 million contract; financial strength is weighted at 20 % of the overall evaluation.,,,,,,original,,2025-11-20 02:05:51.042400,False
+226,3,financial,Contractor must provide a bank guarantee covering the mobilisation payment of 10 % of the contract value upon award.,,,,,,original,,2025-11-20 02:05:51.042400,False
+227,3,financial,Contractor must submit audited financial statements and evidence of adequate capital as part of the tender submission.,,,,,,original,,2025-11-20 02:05:51.042400,False
+228,3,experience,"Contractor must have relevant project experience in mixed‑use residential developments of comparable scale (approximately 1,200 residential units); experience is weighted at 30 % of the overall evaluation.",,,,,,original,,2025-11-20 02:05:51.042400,False
+229,3,experience,"Contractor must have completed at least two similar residential projects in Singapore within the past five years, providing references and completion certificates.",,,,,,original,,2025-11-20 02:05:51.042400,False
+230,3,experience,"Contractor must have demonstrated capability in delivering civil, structural, mechanical, electrical, and plumbing works in accordance with BCA and LTA standards.",,,,,,original,,2025-11-20 02:05:51.042400,False
+231,3,technical,"Contractor must demonstrate technical capability covering 40 % of the evaluation, including availability of required plant, machinery, equipment, and skilled manpower for all trades.",,,,,,original,,2025-11-20 02:05:51.042400,False
+232,3,technical,"Contractor must submit a Quality Assurance Plan, Safety Management Plan, and Environmental Management Plan as part of the tender.",,,,,,original,,2025-11-20 02:05:51.042400,False
+233,3,technical,"Contractor must be able to execute works in compliance with Singapore Standards (e.g., SS 550, SS 636, SS 638) and integrate renewable energy solutions such as solar PV where feasible.",,,,,,original,,2025-11-20 02:05:51.042400,False
+234,3,technical,"Contractor must have sufficient skilled tradesmen, supervisors, and engineers to cover civil, structural, mechanical, electrical, and plumbing works as described in the scope.",,,,,,original,,2025-11-20 02:05:51.042400,False
+235,3,technical,"Contractor must possess equipment and resources for earthworks, pile foundations, reinforced concrete works, structural steel, HVAC systems, fire‑fighting installations, electrical distribution, road widening, landscaping, and utility diversion.",,,,,,original,,2025-11-20 02:05:51.042400,False
+236,3,license,"Compliance with all applicable statutes, regulations and licensing requirements (Clause 26.1).",,,,,,original,,2025-11-20 02:06:35.189813,False
+237,3,financial,Provision of a Performance Security as stipulated (Clause 10.1) with a validity period of 120 days from the closing date (Clause 10.2).,,,,,,original,,2025-11-20 02:06:35.189813,False
+238,3,financial,"Mandatory insurance coverage for works and contractor's equipment, including third‑party and employer's property insurance (Clauses 21.1, 23.1, 24.1‑24.2, 25.1‑25.5).",,,,,,original,,2025-11-20 02:06:35.189813,False
+239,3,financial,Submission of monthly financial statements and payment certificates (Clauses 60.1‑60.8).,,,,,,original,,2025-11-20 02:06:35.189813,False
+240,3,experience,No explicit experience requirement is stated in the provided excerpt.,,,,,,original,,2025-11-20 02:06:35.189813,False
+241,3,technical,Contractor must demonstrate language ability of the contractor’s representative (Clause 15.2).,,,,,,original,,2025-11-20 02:06:35.189813,False
+242,3,technical,Contractor must provide sufficient qualified employees and manpower to execute the works (Clause 16.1).,,,,,,original,,2025-11-20 02:06:35.189813,False
+243,3,technical,"Quality of materials, plant and workmanship must meet specified standards (Clause 36.1).",,,,,,original,,2025-11-20 02:06:35.189813,False
+244,3,technical,"Contractor must supply and maintain all equipment, temporary works and materials for exclusive use on the project (Clause 54.1).",,,,,,original,,2025-11-20 02:06:35.189813,False
+245,3,technical,"Conditions governing the hire, use and approval of contractor’s equipment, including customs clearance and hire agreements (Clauses 54.4‑54.7).",,,,,,original,,2025-11-20 02:06:35.189813,False
+246,3,technical,"Transport of contractor’s equipment, temporary works, materials or plant must comply with site access and safety requirements (Clauses 30.2‑30.4).",,,,,,original,,2025-11-20 02:06:35.189813,False
+247,3,technical,"Contractor must submit programme, revised programme, cash‑flow estimates and monthly progress reports (Clauses 14.1‑14.5, 45.1‑45.2).",,,,,,original,,2025-11-20 02:06:35.189813,False
+248,3,technical,"Contractor must maintain a safety officer and keep records of safety and health, reporting accidents as required (Clauses 35.4‑35.5).",,,,,,original,,2025-11-20 02:06:35.189813,False
+249,3,license,Submission of the Tenderer's Singapore Business Registration Certificate and Municipality Trade Licence with the tender documents.,,,,,,original,,2025-11-20 02:07:28.095377,False
+250,3,technical,Provision of Company Organization Chart and details of Management to demonstrate the tenderer's organisational structure and manpower capability.,,,,,,original,,2025-11-20 02:07:28.095377,False
+251,3,technical,"Tender must be signed by the principal of the firm or an authorized representative, and the registered name and address must be printed in block capitals.",,,,,,original,,2025-11-20 02:07:28.095377,False
+252,3,license,Tender submissions must be prepared in accordance with Singapore Building and Construction Authority (BCA) standards and relevant Singapore Standards (SS).,,,,,,original,,2025-11-20 02:08:14.659583,False
+253,3,license,Tenderer must certify that it is qualified and capable of executing the works as described in the tender documents.,,,,,,original,,2025-11-20 02:08:14.659583,False
+254,3,financial,"Provide a bid security equivalent to 2% of the contract value (SGD 3.0 million) in the form of a bank guarantee or standby letter of credit, valid for 90 days from the closing date.",,,,,,original,,2025-11-20 02:08:14.659583,False
+255,3,financial,Provide a performance security amounting to 10% of the contract price as stipulated in the General Conditions.,,,,,,original,,2025-11-20 02:08:14.659583,False
+256,3,financial,"Submit a tender guarantee of S$3,000,000 in the form of an unconditional and irrevocable bank guarantee issued or confirmed by a first‑class international bank or leading Singapore bank approved by the employer.",,,,,,original,,2025-11-20 02:08:14.659583,False
+257,3,experience,Demonstrate experience and past performance on similar residential development projects.,,,,,,original,,2025-11-20 02:08:14.659583,False
+258,3,experience,Provide evidence of the ability to complete the works within the 36‑month contract period (programme capability).,,,,,,original,,2025-11-20 02:08:14.659583,False
+259,3,technical,"Achieve technical compliance with the Scope of Works and Singapore standards (BCA, LTA, SS).",,,,,,original,,2025-11-20 02:08:14.659583,False
+260,3,technical,Submit technical specifications in accordance with BCA and Singapore Standards as required in Appendix 2.,,,,,,original,,2025-11-20 02:08:14.659583,False
+261,3,technical,Possess the necessary equipment and manpower to meet the programme requirements and complete the works within the stipulated 36‑month period.,,,,,,original,,2025-11-20 02:08:14.659583,False
+262,3,technical,All works must be carried out in accordance with the relevant BCA Code of Practice and applicable LTA guidelines where applicable.,,,,,,original,,2025-11-20 02:08:14.659583,False
+263,3,license,All works shall be performed in accordance with the Singapore Building and Construction Authority (BCA) Code of Practice.,,,,,,original,,2025-11-20 02:09:33.528915,False
+264,3,financial,Contractor shall furnish a Performance Bond equal to 10% of the Contract Price.,,,,,,original,,2025-11-20 02:09:33.528915,False
+265,3,financial,Contractor shall maintain Contractor’s All Risks (CAR) insurance for the duration of the contract.,,,,,,original,,2025-11-20 02:09:33.528915,False
+266,3,financial,A retention amount of 5% of each payment shall be held until issuance of the Defects Certificate.,,,,,,original,,2025-11-20 02:09:33.528915,False
+267,3,financial,Milestone payment schedule: Mobilisation – 5%; Foundations – 15%; Superstructure – 30%; M&E Services – 25%; Practical Completion – 20% of the Contract Price.,,,,,,original,,2025-11-20 02:09:33.528915,False
+268,3,technical,Civil works must conform to the BCA Code of Practice for Structural Design (SS 554) and LTA guidelines where applicable.,,,,,,original,,2025-11-20 02:09:33.528915,False
+269,3,technical,Foundations must be designed for the soil conditions as reported in the Geotechnical Investigation Report (Ref. GTR‑2025‑01).,,,,,,original,,2025-11-20 02:09:33.528915,False
+270,3,technical,"Architectural finishes shall meet the HDB Design Guidelines for Residential Developments, including accessibility standards (Code 117).",,,,,,original,,2025-11-20 02:09:33.528915,False
+271,3,technical,Mechanical services shall comply with Singapore Standard SS 638 for HVAC systems.,,,,,,original,,2025-11-20 02:09:33.528915,False
+272,3,technical,Electrical installations shall be in accordance with the BCA Electrical Installation Code (SS 638) and the Energy Conservation Act.,,,,,,original,,2025-11-20 02:09:33.528915,False
+273,3,technical,Fire detection and alarm systems shall meet the SCDF Fire Code and SS 587.,,,,,,original,,2025-11-20 02:09:33.528915,False
+274,3,technical,"All site activities shall comply with the Workplace Safety and Health Act and BCA safety guidelines, and a Site Safety Plan approved by the Procuring Authority must be maintained.",,,,,,original,,2025-11-20 02:09:33.528915,False
+275,3,technical,Project must adhere to the BCA Green Mark Scheme (2023 Edition) for sustainability.,,,,,,original,,2025-11-20 02:09:33.528915,False
+276,3,license,"Contractor must be registered with the Building and Construction Authority (BCA) and comply with BCA, LTA and SS codes.",,,,,,original,,2025-11-20 02:10:03.001067,False
+277,3,technical,"All works must comply with applicable Singapore standards, including BCA, LTA and SS codes.",,,,,,original,,2025-11-20 02:10:03.001067,False
+278,3,technical,"Contractor must provide all superintendence, labour, materials, plant, equipment and any other items required for design, execution, completion and remedying of defects as specified in the contract.",,,,,,original,,2025-11-20 02:10:03.001067,False
+279,3,experience,"Contractor must have the expertise, experience and ability to carry out and complete the works fully in accordance with the contract, demonstrating the highest level of competence expected of an experienced local contractor.",,,,,,original,,2025-11-20 02:10:03.001067,False
+280,3,experience,Contractor must employ a professionally qualified and competent designer who is experienced in work of a similar nature and scope.,,,,,,original,,2025-11-20 02:10:03.001067,False
+281,3,experience,"Design work must be based on proven up‑to‑date good practice and standards consistent with the contract and applicable Singapore standards (BCA, LTA, SS).",,,,,,original,,2025-11-20 02:10:03.001067,False
+282,3,technical,"Completed works must comply with all applicable rules, regulations and codes having the force of law in Singapore.",,,,,,original,,2025-11-20 02:10:03.001067,False
+283,3,license,"Contractors must be registered with the Building and Construction Authority (BCA) and comply with the BCA Code of Practice 2013, BCA Structural Steel Code, and all other relevant BCA statutory requirements.",,,,,,original,,2025-11-20 02:58:20.500111,False
+284,3,financial,Contractors must provide evidence of bonding capacity and furnish a performance bond equal to 5% of the contract value within 14 days of award.,,,,,,original,,2025-11-20 02:58:20.500111,False
+285,3,financial,The tender must remain valid for 120 days from the closing date.,,,,,,original,,2025-11-20 02:58:20.500111,False
+286,3,financial,A detailed financial proposal (Bill of Quantities priced at unit rates) and a consolidated price summary must be submitted.,,,,,,original,,2025-11-20 02:58:20.500111,False
+287,3,experience,"Applicants must submit details of a minimum of three similar residential projects completed, demonstrating relevant experience.",,,,,,original,,2025-11-20 02:58:20.500111,False
+288,3,experience,Experience will be evaluated (20% weighting) based on delivery of comparable residential projects within budget and schedule.,,,,,,original,,2025-11-20 02:58:20.500111,False
+289,3,technical,"A technical proposal must be submitted, including method statements, programme (Gantt chart), Quality Assurance Plan, Health & Safety Plan, and Environmental Management Plan.",,,,,,original,,2025-11-20 02:58:20.500111,False
+290,3,technical,Key personnel CVs must be provided to demonstrate required manpower and expertise.,,,,,,original,,2025-11-20 02:58:20.500111,False
+291,3,technical,"All works must comply with applicable standards: BCA Code of Practice 2013, Singapore Standard 554 (Structural Design), SS 638 (Mechanical & Electrical), LTA Design Guidelines, and HDB Landscape Guidelines.",,,,,,original,,2025-11-20 02:58:20.500111,False
+292,3,technical,"Technical evaluation carries a 30% weighting, assessing methodology, programme feasibility, and quality & safety plans.",,,,,,original,,2025-11-20 02:58:20.500111,False

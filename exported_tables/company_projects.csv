@@ -1,0 +1,6 @@
+project_id,project_name,contract_value,completion_date,client_name,project_type,project_description,location
+1,HDB Tampines North,42500000.00,2023-12-31,HDB,Residential,Completed 2 months ahead of schedule,Tampines North
+2,Clementi Upgrading Works,8000000.00,2022-12-31,HDB,A&A,Zero safety incidents throughout project,Clementi
+3,Tai Seng Commercial Dev.,15300000.00,2021-12-31,Private,Commercial,Achieved BCA Green Mark Gold certification,Tai Seng
+4,East Coast Condo,12800000.00,2020-12-31,Private,Residential,Client satisfaction score of 9.5/10,East Coast
+5,Jurong Logistics Centre,9600000.00,2019-12-31,Private,Industrial,Innovative space optimization solution,Jurong

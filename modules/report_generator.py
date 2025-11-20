@@ -45,8 +45,12 @@ def generate_report(tender_id: int, conn, output_path: str = None) -> str:
     recommend_go = all_met and no_missing_mandatory
 
     # Days until deadline
+    # Days until deadline
     deadline_date = tender["submission_deadline"]
-    days_until_deadline = (deadline_date - datetime.now()).days
+    if deadline_date:
+        days_until_deadline = (deadline_date.replace(tzinfo=None) - datetime.now()).days
+    else:
+        days_until_deadline = 0
 
     context = {
         "tender": tender,

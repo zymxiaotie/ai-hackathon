@@ -13,3 +13,5 @@ wheels/
 .env
 
 .gitignore
+".env" 
+"*.pem" 

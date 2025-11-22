@@ -5,3 +5,11 @@ certification_id,certification_name,certification_body,issue_date,expiry_date,ce
 4,Singapore BIM Framework Certification,Building and Construction Authority (BCA),2022-09-20,2025-09-19,BIM-SG-98765,active
 5,Water Efficient Building (WEB) Certification,Public Utilities Board (PUB),2023-05-10,2026-05-09,WEB-C-4567,active
 6,SkillsFuture Employer Mark,SkillsFuture Singapore (SSG),2023-11-01,2024-12-31,SFEA-2023-C-012,active
+7,ISO 9001:2015,SGS,2022-03-15,2025-03-14,SGS-QE-22-0001,active
+8,ISO 14001:2015,SGS,2022-03-15,2025-03-14,SGS-QE-22-0001,active
+9,ISO 45001:2018,SGS,2022-03-15,2025-03-14,SGS-QE-22-0001,active
+10,BizSAFE Level Star,Workplace Safety and Health Council,2023-01-20,2026-01-19,BS-STAR-98765,active
+11,BCA Green Mark Gold (Design),Building and Construction Authority,2023-05-10,,GMG-D-2023-QB,active
+12,Certified Construction Manager (CCM),Building and Construction Authority,2021-08-01,2024-07-31,CCM-2021-001,active
+13,Registered Safety Officer (RSO),Ministry of Manpower,2020-06-15,2025-06-14,RSO-2020-QB,active
+14,PE (Mechanical) Registered,Professional Engineers Board,2019-04-01,2025-03-31,PE-M-2019-QB,active

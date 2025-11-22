@@ -1,348 +1,82 @@
 requirement_doc_id,tender_id,document_name,document_category,is_mandatory,is_received,description,source,introduced_by_addendum_id,added_date
-1,2,Instructions to Tenderers,,True,False,,original,,2025-11-20 01:04:29.648944
-2,2,Appendix 1,,True,False,,original,,2025-11-20 01:04:29.648944
-3,2,Appendix 2,,True,False,,original,,2025-11-20 01:04:29.648944
-4,2,Appendix 3,,True,False,,original,,2025-11-20 01:04:29.648944
-5,2,Appendix 4,,True,False,,original,,2025-11-20 01:04:29.648944
-6,2,Appendix 5,,True,False,,original,,2025-11-20 01:04:29.648944
-7,2,General Conditions of Contract,,True,False,,original,,2025-11-20 01:04:29.648944
-8,2,Appendix A,,True,False,,original,,2025-11-20 01:04:29.648944
-9,2,Appendix B,,True,False,,original,,2025-11-20 01:04:29.648944
-10,2,Appendix C,,True,False,,original,,2025-11-20 01:04:29.648944
-11,2,Appendix D,,True,False,,original,,2025-11-20 01:04:29.648944
-12,2,Appendix E,,True,False,,original,,2025-11-20 01:04:29.648944
-13,2,Appendix F,,True,False,,original,,2025-11-20 01:04:29.648944
-14,2,Conditions of Particular Application,,True,False,,original,,2025-11-20 01:04:29.648944
-15,2,Programme,,True,False,,original,,2025-11-20 01:08:47.127588
-16,2,Revised Programme,,True,False,,original,,2025-11-20 01:08:47.127588
-17,2,Cash Flow Estimates,,True,False,,original,,2025-11-20 01:08:47.127588
-18,2,Monthly Reports,,True,False,,original,,2025-11-20 01:08:47.127588
-19,2,Performance Security,,True,False,,original,,2025-11-20 01:08:47.127588
-20,2,Insurance Evidence and Terms,,True,False,,original,,2025-11-20 01:08:47.127588
-21,2,Taking‑Over Certificate,,True,False,,original,,2025-11-20 01:08:47.127588
-22,2,Drawings and Documents (Custody and Supply),,True,False,,original,,2025-11-20 01:08:47.127588
-23,2,One Copy of Documents to be Kept on Site,,True,False,,original,,2025-11-20 01:08:47.127588
-24,2,"Supplementary Drawings, Specifications and Instructions",,False,False,,original,,2025-11-20 01:08:47.127588
-25,2,Permanent Works Designed by Contractor,,False,False,,original,,2025-11-20 01:08:47.127588
-26,2,Drawings and Documents (Custody and Supply),,True,False,,original,,2025-11-20 01:12:53.439117
-27,2,Programme,,True,False,,original,,2025-11-20 01:12:53.439117
-28,2,Revised Programme,,True,False,,original,,2025-11-20 01:12:53.439117
-29,2,Cash Flow Estimates,,True,False,,original,,2025-11-20 01:12:53.439117
-30,2,Monthly Reports,,True,False,,original,,2025-11-20 01:12:53.439117
-31,2,"Supplementary Drawings, Specifications and Instructions",,True,False,,original,,2025-11-20 01:12:53.439117
-32,2,Performance Security,,True,False,,original,,2025-11-20 01:12:53.439117
-33,2,Evidence and Terms of Insurance,,True,False,,original,,2025-11-20 01:12:53.439117
-34,2,Taking‑Over Certificate,,True,False,,original,,2025-11-20 01:12:53.439117
-35,2,Completed Tender Form (BCA/Tender Form – Fixed Price),,True,False,,original,,2025-11-20 01:13:50.854953
-36,2,Company Profile and Relevant Experience (minimum three similar projects),,True,False,,original,,2025-11-20 01:13:50.854953
-37,2,"Technical Proposal detailing methodology, programme, and quality control plan",,True,False,,original,,2025-11-20 01:13:50.854953
-38,2,Financial Proposal (breakdown of fixed price and unit rates for remeasurable items),,True,False,,original,,2025-11-20 01:13:50.854953
-39,2,"Statutory Declarations (Tax Clearance, WSHA compliance)",,True,False,,original,,2025-11-20 01:13:50.854953
-40,2,Completed Tender Form (BCA/Tender Form – Fixed Price),,True,False,,original,,2025-11-20 01:15:11.694165
-41,2,Company Profile and Relevant Experience (minimum three similar projects),,True,False,,original,,2025-11-20 01:15:11.694165
-42,2,"Technical Proposal detailing methodology, programme, and quality control plan",,True,False,,original,,2025-11-20 01:15:11.694165
-43,2,Financial Proposal (breakdown of fixed price and unit rates for remeasurable items),,True,False,,original,,2025-11-20 01:15:11.694165
-44,2,"Statutory Declarations (Tax Clearance, WSHA compliance)",,True,False,,original,,2025-11-20 01:15:11.694165
-45,2,Completed Tender Form (Annex A),,True,False,,original,,2025-11-20 01:15:55.054385
-46,2,Signed and sealed tender documents (original copies),,True,False,,original,,2025-11-20 01:15:55.054385
-47,2,Electronic copy (PDF) on CD/DVD/USB,,True,False,,original,,2025-11-20 01:15:55.054385
-48,2,"Tender Security (bank guarantee, demand draft or certified cheque)",,True,False,,original,,2025-11-20 01:15:55.054385
-49,2,Insurance certificates (public liability & workers’ compensation),,True,False,,original,,2025-11-20 01:15:55.054385
-50,2,Company profile and relevant experience (Annex B),,True,False,,original,,2025-11-20 01:15:55.054385
-51,2,Project programme (Gantt chart),,True,False,,original,,2025-11-20 01:15:55.054385
-52,2,Health & Safety Plan (Annex C),,True,False,,original,,2025-11-20 01:15:55.054385
-53,2,Form of Tender Acknowledgement (typed on tenderer’s letterhead),,True,False,,original,,2025-11-20 01:15:55.054385
-54,2,Form of Tender Guarantee,,True,False,,original,,2025-11-20 01:16:27.122446
-55,2,Signed Form of Tender (Appendix A) in triplicate,,True,False,,original,,2025-11-20 01:17:00.961750
-56,2,Company Profile,,True,False,,original,,2025-11-20 01:17:00.961750
-57,2,Relevant Experience,,True,False,,original,,2025-11-20 01:17:00.961750
-58,2,Key Personnel CVs,,True,False,,original,,2025-11-20 01:17:00.961750
-59,2,Tender Price Schedule (Appendix B),,True,False,,original,,2025-11-20 01:17:00.961750
-60,2,Bank Guarantee (5% of Contract Value),,True,False,,original,,2025-11-20 01:17:00.961750
-61,2,Detailed Method Statement,,True,False,,original,,2025-11-20 01:17:00.961750
-62,2,Work Programme (Appendix C),,True,False,,original,,2025-11-20 01:17:00.961750
-63,2,Compliance certificates for all referenced Singapore Standards,,True,False,,original,,2025-11-20 01:17:00.961750
-64,2,"Valid Public Liability Insurance (minimum SGD 2,000,000)",,True,False,,original,,2025-11-20 01:17:00.961750
-65,2,BCA Approved Safety Management Plan,,True,False,,original,,2025-11-20 01:17:00.961750
-66,2,Environmental Impact Assessment Report (if applicable),,False,False,,original,,2025-11-20 01:17:00.961750
-67,2,ISO 9001:2015 Certification,,True,False,,original,,2025-11-20 01:17:00.961750
-68,2,Tender Form (Annex A),,True,False,,original,,2025-11-20 01:17:41.592652
-69,2,Technical Proposal (Annex B),,True,False,,original,,2025-11-20 01:17:41.592652
-70,2,Commercial Proposal (Annex C),,True,False,,original,,2025-11-20 01:17:41.592652
-71,2,"Supporting Documents (Annex D) – licences, qualifications, relevant project references",,True,False,,original,,2025-11-20 01:17:41.592652
-72,3,Form of Tender Acknowledgement (typed on tenderer's letterhead),,True,False,,original,,2025-11-20 01:22:37.237663
-73,3,Volume I – Instructions to Tenderers,,True,False,,original,,2025-11-20 01:22:37.237663
-74,3,Tendering and Appendix,,True,False,,original,,2025-11-20 01:22:37.237663
-75,3,General Conditions of Contract,,True,False,,original,,2025-11-20 01:22:37.237663
-76,3,Conditions of Particular Application (Hard Copy),,True,False,,original,,2025-11-20 01:22:37.237663
-77,3,Volume II – Specifications (Hard Copy),,True,False,,original,,2025-11-20 01:22:37.237663
-78,3,Volume III – Bills of Quantities (Hard Copy & Digital Copy),,True,False,,original,,2025-11-20 01:22:37.237663
-157,3,Operation and Maintenance Manuals,,True,False,,original,,2025-11-20 01:30:56.379277
-79,3,Volume IV – Drawings (Digital Copy only in PDF Format),,True,False,,original,,2025-11-20 01:22:37.237663
-80,3,Design Drawings,,True,False,,original,,2025-11-20 01:23:53.980328
-81,3,Specifications,,True,False,,original,,2025-11-20 01:23:53.980328
-82,3,Calculations,,True,False,,original,,2025-11-20 01:23:53.980328
-83,3,Operation and Maintenance Manuals,,True,False,,original,,2025-11-20 01:23:53.980328
-84,3,Drawings of the Permanent Works,,True,False,,original,,2025-11-20 01:23:53.980328
-85,3,Completion Drawings (as part of O&M submission),,True,False,,original,,2025-11-20 01:23:53.980328
-86,3,Letter of Acceptance,,True,False,,original,,2025-11-20 01:25:26.757172
-87,3,Tender and Appendix,,True,False,,original,,2025-11-20 01:25:26.757172
-88,3,"Conditions of Contract, Part II",,True,False,,original,,2025-11-20 01:25:26.757172
-89,3,"Conditions of Contract, Part I",,True,False,,original,,2025-11-20 01:25:26.757172
-90,3,Specification,,True,False,,original,,2025-11-20 01:25:26.757172
-91,3,Drawings,,True,False,,original,,2025-11-20 01:25:26.757172
-92,3,Bill of Quantities / Schedule of Rates,,True,False,,original,,2025-11-20 01:25:26.757172
-93,3,Instructions to Tenderers,,True,False,,original,,2025-11-20 01:25:26.757172
-94,3,"Complete set of design drawings (architectural, structural, M&E)",,True,False,,original,,2025-11-20 01:25:57.596862
-95,3,Bill of Quantities (BOQ) and detailed cost breakdown,,True,False,,original,,2025-11-20 01:25:57.596862
-96,3,Construction programme (Gantt chart),,True,False,,original,,2025-11-20 01:25:57.596862
-97,3,Quality Assurance Plan,,True,False,,original,,2025-11-20 01:25:57.596862
-98,3,Safety Management Plan,,True,False,,original,,2025-11-20 01:25:57.596862
-99,3,Environmental Management Plan,,True,False,,original,,2025-11-20 01:25:57.596862
-100,3,As‑built documentation,,True,False,,original,,2025-11-20 01:25:57.596862
-101,3,Testing & commissioning reports,,True,False,,original,,2025-11-20 01:25:57.596862
-102,3,Occupancy Permit,,True,False,,original,,2025-11-20 01:25:57.596862
-103,3,Bank guarantee,,True,False,,original,,2025-11-20 01:25:57.596862
-104,3,Volume I – Tendering and Contract Conditions,,True,False,,original,,2025-11-20 01:26:24.000007
-105,3,Volume II – Specifications,,True,False,,original,,2025-11-20 01:26:24.000007
-106,3,Volume III – Bill of Quantities,,True,False,,original,,2025-11-20 01:26:24.000007
-107,3,Volume IV – Drawings,,True,False,,original,,2025-11-20 01:26:24.000007
-108,3,Instructions to Tenderers,,True,False,,original,,2025-11-20 01:26:24.000007
-109,3,Appendix 1-5,,True,False,,original,,2025-11-20 01:26:24.000007
-110,3,General Conditions of Contract,,True,False,,original,,2025-11-20 01:26:24.000007
-111,3,Appendix A-F,,True,False,,original,,2025-11-20 01:26:24.000007
-112,3,Conditions of Particular Application,,True,False,,original,,2025-11-20 01:26:24.000007
-113,3,Form of Tender Guarantee (Appendix 2),,True,False,,original,,2025-11-20 01:27:19.033032
-114,3,Tender Submission Form,,True,False,,original,,2025-11-20 01:27:19.033032
-115,3,Instructions to Tenderers,,False,False,,original,,2025-11-20 01:27:19.033032
-116,3,Original Hardcopy of Volume I (Tendering and Contract Conditions),,True,False,,original,,2025-11-20 01:27:42.176378
-117,3,Original Hardcopy of Volume II (Specifications),,True,False,,original,,2025-11-20 01:27:42.176378
-118,3,Original Hardcopy of Volume III (Bills of Quantities) with ink‑extended prices,,True,False,,original,,2025-11-20 01:27:42.176378
-119,3,Original Hardcopy of Volume IV (Drawings),,True,False,,original,,2025-11-20 01:27:42.176378
-120,3,Duly Stamped Tender Documents (stamped by the Procuring Authority Representative’s Consultant),,True,False,,original,,2025-11-20 01:27:42.176378
-121,3,Form of Tender (Appendix 1),,True,False,,original,,2025-11-20 01:28:36.414772
-122,3,Technical Specifications (Appendix 2),,True,False,,original,,2025-11-20 01:28:36.414772
-123,3,Drawings and Layout Plans (Appendix 3),,True,False,,original,,2025-11-20 01:28:36.414772
-124,3,Bill of Quantities (Appendix 4),,True,False,,original,,2025-11-20 01:28:36.414772
-125,3,Schedule of Requirements (Appendix 5),,True,False,,original,,2025-11-20 01:28:36.414772
-126,3,Bid Security (2% of contract value bank guarantee or standby letter of credit),,True,False,,original,,2025-11-20 01:28:36.414772
-127,3,"Tender Guarantee (Bank Guarantee in the sum of S$3,000,000)",,True,False,,original,,2025-11-20 01:28:36.414772
-128,3,Insurance Certificate (as required by the Tender),,True,False,,original,,2025-11-20 01:28:36.414772
-129,3,Volume I Instructions to Tenderers,,True,False,,original,,2025-11-20 01:29:09.470822
-130,3,Tendering and Appendix,,True,False,,original,,2025-11-20 01:29:09.470822
-131,3,General Conditions of Contract,,True,False,,original,,2025-11-20 01:29:09.470822
-132,3,Conditions of Particular Application (Hard Copy),,True,False,,original,,2025-11-20 01:29:09.470822
-133,3,Volume II Specifications (Hard Copy),,True,False,,original,,2025-11-20 01:29:09.470822
-134,3,Volume III Bills of Quantities (Hard Copy & Digital Copy),,True,False,,original,,2025-11-20 01:29:09.470822
-135,3,Volume IV Drawings (Digital Copy only in PDF Format),,True,False,,original,,2025-11-20 01:29:09.470822
-136,3,Tender Form (Appendix C),,True,False,,original,,2025-11-20 01:29:43.637856
-137,3,Method Statements (Technical Proposal),,True,False,,original,,2025-11-20 01:29:43.637856
-138,3,Programme (Gantt chart) (Technical Proposal),,True,False,,original,,2025-11-20 01:29:43.637856
-139,3,Quality Assurance Plan (Technical Proposal),,True,False,,original,,2025-11-20 01:29:43.637856
-140,3,Health & Safety Plan (Technical Proposal),,True,False,,original,,2025-11-20 01:29:43.637856
-141,3,Environmental Management Plan (Technical Proposal),,True,False,,original,,2025-11-20 01:29:43.637856
-142,3,Detailed Bill of Quantities (BOQ) (Financial Proposal),,True,False,,original,,2025-11-20 01:29:43.637856
-143,3,Consolidated Price Summary (Financial Proposal),,True,False,,original,,2025-11-20 01:29:43.637856
-144,3,Company Profile (Supporting Documents),,True,False,,original,,2025-11-20 01:29:43.637856
-145,3,Relevant Experience (minimum three similar residential projects) (Supporting Documents),,True,False,,original,,2025-11-20 01:29:43.637856
-146,3,Key Personnel CVs (Supporting Documents),,True,False,,original,,2025-11-20 01:29:43.637856
-147,3,Insurance Certificates (Supporting Documents),,True,False,,original,,2025-11-20 01:29:43.637856
-148,3,Bonding Capacity Evidence (Supporting Documents),,True,False,,original,,2025-11-20 01:29:43.637856
-149,3,Programme of Works,,True,False,,original,,2025-11-20 01:30:26.470442
-150,3,Site Safety Plan,,True,False,,original,,2025-11-20 01:30:26.470442
-151,3,Performance Bond (10% of Contract Price),,True,False,,original,,2025-11-20 01:30:26.470442
-152,3,Contractor's All Risks (CAR) Insurance Certificate,,True,False,,original,,2025-11-20 01:30:26.470442
-153,3,Schedule of Rates (Appendix A),,True,False,,original,,2025-11-20 01:30:26.470442
-154,3,Drawings (including supplementary and design drawings),,True,False,,original,,2025-11-20 01:30:56.379277
-155,3,Specifications,,True,False,,original,,2025-11-20 01:30:56.379277
-156,3,Calculations,,True,False,,original,,2025-11-20 01:30:56.379277
-158,3,Drawings of the Permanent Works (as part of O&M manuals),,True,False,,original,,2025-11-20 01:30:56.379277
-159,3,Completion Drawings (drawings on completion),,True,False,,original,,2025-11-20 01:30:56.379277
-160,3,Letter of Acceptance,,True,False,,original,,2025-11-20 01:32:32.602236
-161,3,Tender and Appendix,,True,False,,original,,2025-11-20 01:32:32.602236
-162,3,"Conditions of Contract, Part II",,True,False,,original,,2025-11-20 01:32:32.602236
-163,3,"Conditions of Contract, Part I",,True,False,,original,,2025-11-20 01:32:32.602236
-164,3,Specification,,True,False,,original,,2025-11-20 01:32:32.602236
-165,3,Drawings,,True,False,,original,,2025-11-20 01:32:32.602236
-166,3,Bill of Quantities / Schedule of Rates,,True,False,,original,,2025-11-20 01:32:32.602236
-167,3,Instructions to Tenderers,,True,False,,original,,2025-11-20 01:32:32.602236
-168,3,"Architectural, Structural and M&E Design Drawings",,True,False,,original,,2025-11-20 01:33:06.638904
-169,3,Bill of Quantities (BOQ) and Detailed Cost Breakdown,,True,False,,original,,2025-11-20 01:33:06.638904
-170,3,Construction Programme (Gantt Chart),,True,False,,original,,2025-11-20 01:33:06.638904
-171,3,Quality Assurance Plan,,True,False,,original,,2025-11-20 01:33:06.638904
-172,3,Safety Management Plan,,True,False,,original,,2025-11-20 01:33:06.638904
-173,3,Environmental Management Plan,,True,False,,original,,2025-11-20 01:33:06.638904
-174,3,As‑built Documentation,,True,False,,original,,2025-11-20 01:33:06.638904
-175,3,Testing & Commissioning Reports,,True,False,,original,,2025-11-20 01:33:06.638904
-176,3,Occupancy Permit,,True,False,,original,,2025-11-20 01:33:06.638904
-177,3,Bank Guarantee (for mobilisation payment),,True,False,,original,,2025-11-20 01:33:06.638904
-178,3,Volume I – Tendering and Contract Conditions,,True,False,,original,,2025-11-20 01:33:30.008432
-179,3,Volume II – Specifications,,True,False,,original,,2025-11-20 01:33:30.008432
-180,3,Volume III – Bill of Quantities,,True,False,,original,,2025-11-20 01:33:30.008432
-181,3,Volume IV – Drawings,,True,False,,original,,2025-11-20 01:33:30.008432
-182,3,Contract Agreement,,True,False,,original,,2025-11-20 01:33:44.671769
-183,3,Performance Security,,True,False,,original,,2025-11-20 01:33:44.671769
-184,3,Programme,,True,False,,original,,2025-11-20 01:33:44.671769
-185,3,Revised Programme,,True,False,,original,,2025-11-20 01:33:44.671769
-186,3,Cash Flow Estimates,,True,False,,original,,2025-11-20 01:33:44.671769
-187,3,Monthly Reports,,True,False,,original,,2025-11-20 01:33:44.671769
-188,3,Evidence and Terms of Insurance,,True,False,,original,,2025-11-20 01:33:44.671769
-189,3,Third‑Party Insurance (including Employer’s Property),,True,False,,original,,2025-11-20 01:33:44.671769
-190,3,Taking‑Over Certificate,,True,False,,original,,2025-11-20 01:33:44.671769
-191,3,Defects Liability Documentation,,True,False,,original,,2025-11-20 01:33:44.671769
-192,3,Form of Tender Guarantee,,True,False,,original,,2025-11-20 01:34:15.234217
-193,3,Performance Security,,True,False,,original,,2025-11-20 01:34:15.234217
-194,3,Tender Submission Form,,True,False,,original,,2025-11-20 01:34:15.234217
-195,3,Original Hardcopy of Tender Documents (Volumes I‑IV) with prices extended in ink,,True,False,,original,,2025-11-20 01:34:35.317461
-196,3,Stamp/Duly Stamped endorsement by the Procuring Authority Representative’s Consultant,,True,False,,original,,2025-11-20 01:34:35.317461
-197,3,"Alternative Tender (endorsed ""Alternative No.1"")",,False,False,,original,,2025-11-20 01:34:35.317461
-198,3,Form of Tender (Appendix 1),,True,False,,original,,2025-11-20 01:35:22.746338
-199,3,Technical Specifications (Appendix 2),,True,False,,original,,2025-11-20 01:35:22.746338
-200,3,Drawings and Layout Plans (Appendix 3),,True,False,,original,,2025-11-20 01:35:22.746338
-201,3,Bill of Quantities (Appendix 4),,True,False,,original,,2025-11-20 01:35:22.746338
-202,3,Schedule of Requirements (Appendix 5),,True,False,,original,,2025-11-20 01:35:22.746338
-203,3,Bid Security (Bank Guarantee or Standby Letter of Credit),,True,False,,original,,2025-11-20 01:35:22.746338
-204,3,Tender Guarantee (Bank Guarantee),,True,False,,original,,2025-11-20 01:35:22.746338
-205,3,Volume I Instructions to Tenderers,,True,False,,original,,2025-11-20 01:35:50.115591
-206,3,Tendering and Appendix,,True,False,,original,,2025-11-20 01:35:50.115591
-207,3,General Conditions of Contract,,True,False,,original,,2025-11-20 01:35:50.115591
-208,3,Conditions of Particular Application (Hard Copy),,True,False,,original,,2025-11-20 01:35:50.115591
-209,3,Volume II Specifications (Hard Copy),,True,False,,original,,2025-11-20 01:35:50.115591
-210,3,Volume III Bills of Quantities (Hard Copy & Digital Copy),,True,False,,original,,2025-11-20 01:35:50.115591
-211,3,Volume IV Drawings (Digital Copy only in PDF Format),,True,False,,original,,2025-11-20 01:35:50.115591
-212,3,Programme of Works,,True,False,,original,,2025-11-20 01:36:42.337001
-213,3,Performance Bond (10% of Contract Price),,True,False,,original,,2025-11-20 01:36:42.337001
-214,3,Contractor's All Risks (CAR) Insurance Certificate,,True,False,,original,,2025-11-20 01:36:42.337001
-215,3,Site Safety Plan (approved by Procuring Authority),,True,False,,original,,2025-11-20 01:36:42.337001
-216,3,Design Drawings,,True,False,,original,,2025-11-20 01:37:12.708439
-217,3,Specifications,,True,False,,original,,2025-11-20 01:37:12.708439
-218,3,Design Calculations,,True,False,,original,,2025-11-20 01:37:12.708439
-219,3,Supporting Information (other information),,True,False,,original,,2025-11-20 01:37:12.708439
-220,3,Operation and Maintenance Manuals,,True,False,,original,,2025-11-20 01:37:12.708439
-221,3,As‑built Drawings of Permanent Works,,True,False,,original,,2025-11-20 01:37:12.708439
-222,3,Letter of Acceptance,,True,False,,original,,2025-11-20 01:38:47.425189
-223,3,Tender and Appendix,,True,False,,original,,2025-11-20 01:38:47.425189
-224,3,"Conditions of Contract, Part II",,True,False,,original,,2025-11-20 01:38:47.425189
-225,3,"Conditions of Contract, Part I",,True,False,,original,,2025-11-20 01:38:47.425189
-226,3,Specification,,True,False,,original,,2025-11-20 01:38:47.425189
-227,3,Drawings,,True,False,,original,,2025-11-20 01:38:47.425189
-228,3,Bill of Quantities / Schedule of Rates,,True,False,,original,,2025-11-20 01:38:47.425189
-229,3,Instructions to Tenderers,,True,False,,original,,2025-11-20 01:38:47.425189
-230,3,Bank Guarantee,,True,False,,original,,2025-11-20 02:05:55.006763
-231,3,"Complete set of design drawings (architectural, structural, M&E)",,True,False,,original,,2025-11-20 02:05:55.006763
-232,3,Bill of Quantities (BOQ) and detailed cost breakdown,,True,False,,original,,2025-11-20 02:05:55.006763
-233,3,Construction programme (Gantt chart),,True,False,,original,,2025-11-20 02:05:55.006763
-234,3,Quality Assurance Plan,,True,False,,original,,2025-11-20 02:05:55.006763
-235,3,Safety Management Plan,,True,False,,original,,2025-11-20 02:05:55.006763
-236,3,Environmental Management Plan,,True,False,,original,,2025-11-20 02:05:55.006763
-237,3,As‑built documentation,,True,False,,original,,2025-11-20 02:05:55.006763
-238,3,Testing & commissioning reports,,True,False,,original,,2025-11-20 02:05:55.006763
-239,3,Occupancy Permit,,True,False,,original,,2025-11-20 02:05:55.006763
-240,3,Volume I – Tendering and Contract Conditions,,True,False,,original,,2025-11-20 02:06:19.841600
-241,3,Volume II – Specifications,,True,False,,original,,2025-11-20 02:06:19.841600
-242,3,Volume III – Bill of Quantities,,True,False,,original,,2025-11-20 02:06:19.841600
-243,3,Volume IV – Drawings,,True,False,,original,,2025-11-20 02:06:19.841600
-244,3,Instructions to Tenderers,,True,False,,original,,2025-11-20 02:06:19.841600
-245,3,Appendix 1-5,,True,False,,original,,2025-11-20 02:06:19.841600
-246,3,General Conditions of Contract,,True,False,,original,,2025-11-20 02:06:19.841600
-247,3,Appendix A-F,,True,False,,original,,2025-11-20 02:06:19.841600
-248,3,Conditions of Particular Application,,True,False,,original,,2025-11-20 02:06:19.841600
-249,3,Contract Agreement,,True,False,,original,,2025-11-20 02:06:39.655542
-250,3,Performance Security,,True,False,,original,,2025-11-20 02:06:39.655542
-251,3,Programme,,True,False,,original,,2025-11-20 02:06:39.655542
-252,3,Revised Programme,,True,False,,original,,2025-11-20 02:06:39.655542
-253,3,Cash Flow Estimates,,True,False,,original,,2025-11-20 02:06:39.655542
-254,3,Monthly Reports,,True,False,,original,,2025-11-20 02:06:39.655542
-255,3,Evidence of Insurance (Works and Contractor's Equipment),,True,False,,original,,2025-11-20 02:06:39.655542
-256,3,Evidence and Terms of Insurance,,True,False,,original,,2025-11-20 02:06:39.655542
-257,3,Third Party Insurance (including Employer's Property),,True,False,,original,,2025-11-20 02:06:39.655542
-258,3,Taking‑Over Certificate,,True,False,,original,,2025-11-20 02:06:39.655542
-259,3,Form of Tender Guarantee,,True,False,,original,,2025-11-20 02:07:12.642895
-260,3,Tender Submission (completed tender form),,True,False,,original,,2025-11-20 02:07:12.642895
-261,3,Instructions to Tenderers,,False,False,,original,,2025-11-20 02:07:12.642895
-262,3,"Volume I Tendering and Contract Conditions (Hard Copy) – Instructions to Tenderers and Appendices, General Conditions of Contract, Conditions of Particular Application",,True,False,,original,,2025-11-20 02:07:32.432090
-263,3,"Volume II Specifications (Hard Copy) – General Specifications, Technical Specifications",,True,False,,original,,2025-11-20 02:07:32.432090
-264,3,Volume III Bills of Quantities (Hard Copy),,True,False,,original,,2025-11-20 02:07:32.432090
-265,3,Volume III Bills of Quantities (Digital Copy in Excel format),,False,False,,original,,2025-11-20 02:07:32.432090
-266,3,Volume IV Drawings (Digital Copy on CD‑ROM in PDF format),,True,False,,original,,2025-11-20 02:07:32.432090
-267,3,Original Hardcopy Tender Form (to be stamped by the Procuring Authority Representative’s Consultant),,True,False,,original,,2025-11-20 02:07:32.432090
-268,3,Form of Tender (Appendix 1),,True,False,,original,,2025-11-20 02:08:18.455152
-269,3,Technical Specifications (Appendix 2),,True,False,,original,,2025-11-20 02:08:18.455152
-270,3,Drawings and Layout Plans (Appendix 3),,True,False,,original,,2025-11-20 02:08:18.455152
-271,3,Bill of Quantities (Appendix 4),,True,False,,original,,2025-11-20 02:08:18.455152
-272,3,Schedule of Requirements (Appendix 5),,True,False,,original,,2025-11-20 02:08:18.455152
-273,3,Bid Security (2% of contract value bank guarantee or standby letter of credit),,True,False,,original,,2025-11-20 02:08:18.455152
-274,3,Tender Guarantee (unconditional and irrevocable bank guarantee),,True,False,,original,,2025-11-20 02:08:18.455152
-275,3,Insurance Certificate (as required by the tender),,True,False,,original,,2025-11-20 02:08:18.455152
-276,3,Form of Tender Acknowledgement (typed on tenderer's letterhead),,True,False,,original,,2025-11-20 02:08:45.824218
-277,3,Volume I – Instructions to Tenderers,,True,False,,original,,2025-11-20 02:08:45.824218
-278,3,Tendering and Appendix,,True,False,,original,,2025-11-20 02:08:45.824218
-279,3,General Conditions of Contract,,True,False,,original,,2025-11-20 02:08:45.824218
-280,3,Conditions of Particular Application (Hard Copy),,True,False,,original,,2025-11-20 02:08:45.824218
-281,3,Volume II – Specifications (Hard Copy),,True,False,,original,,2025-11-20 02:08:45.824218
-282,3,Volume III – Bills of Quantities (Hard Copy & Digital Copy),,True,False,,original,,2025-11-20 02:08:45.824218
-283,3,Volume IV – Drawings (Digital Copy only in PDF Format),,True,False,,original,,2025-11-20 02:08:45.824218
-284,3,Performance Bond (10% of Contract Price),,True,False,,original,,2025-11-20 02:09:37.361402
-285,3,Contractor's All Risks (CAR) Insurance Certificate,,True,False,,original,,2025-11-20 02:09:37.361402
-286,3,Programme of Works,,True,False,,original,,2025-11-20 02:09:37.361402
-287,3,Site Safety Plan (approved),,True,False,,original,,2025-11-20 02:09:37.361402
-288,3,Schedule of Rates (Appendix A),,True,False,,original,,2025-11-20 02:09:37.361402
-289,3,Design Drawings,,True,False,,original,,2025-11-20 02:10:06.094044
-290,3,Technical Specifications,,True,False,,original,,2025-11-20 02:10:06.094044
-291,3,Design Calculations,,True,False,,original,,2025-11-20 02:10:06.094044
-292,3,Operation and Maintenance Manuals,,True,False,,original,,2025-11-20 02:10:06.094044
-293,3,Drawings of Permanent Works,,True,False,,original,,2025-11-20 02:10:06.094044
-294,3,Completion Drawings (as‑built drawings),,True,False,,original,,2025-11-20 02:10:06.094044
-295,3,"Other Supporting Information (e.g., design rationale, compliance statements)",,True,False,,original,,2025-11-20 02:10:06.094044
-296,3,Letter of Acceptance,,True,False,,original,,2025-11-20 02:12:00.776689
-297,3,Tender and Appendix,,True,False,,original,,2025-11-20 02:12:00.776689
-298,3,"Conditions of Contract, Part II",,True,False,,original,,2025-11-20 02:12:00.776689
-299,3,"Conditions of Contract, Part I",,True,False,,original,,2025-11-20 02:12:00.776689
-300,3,Specification,,True,False,,original,,2025-11-20 02:12:00.776689
-301,3,Drawings,,True,False,,original,,2025-11-20 02:12:00.776689
-302,3,Bill of Quantities / Schedule of Rates,,True,False,,original,,2025-11-20 02:12:00.776689
-303,3,Instructions to Tenderers,,True,False,,original,,2025-11-20 02:12:00.776689
-304,3,"Complete set of design drawings (architectural, structural, M&E)",,True,False,,original,,2025-11-20 02:12:33.692380
-305,3,Bill of Quantities (BOQ) and detailed cost breakdown,,True,False,,original,,2025-11-20 02:12:33.692380
-306,3,Construction programme (Gantt chart),,True,False,,original,,2025-11-20 02:12:33.692380
-307,3,Quality Assurance Plan,,True,False,,original,,2025-11-20 02:12:33.692380
-308,3,Safety Management Plan,,True,False,,original,,2025-11-20 02:12:33.692380
-309,3,Environmental Management Plan,,True,False,,original,,2025-11-20 02:12:33.692380
-310,3,As‑built documentation,,True,False,,original,,2025-11-20 02:12:33.692380
-311,3,Testing & commissioning reports,,True,False,,original,,2025-11-20 02:12:33.692380
-312,3,Occupancy Permit,,True,False,,original,,2025-11-20 02:12:33.692380
-313,3,Bank Guarantee,,True,False,,original,,2025-11-20 02:12:33.692380
-314,3,Volume I – Tendering and Contract Conditions,,True,False,,original,,2025-11-20 02:12:57.035462
-315,3,Volume II – Specifications,,True,False,,original,,2025-11-20 02:12:57.035462
-316,3,Volume III – Bill of Quantities,,True,False,,original,,2025-11-20 02:12:57.035462
-317,3,Volume IV – Drawings,,True,False,,original,,2025-11-20 02:12:57.035462
-318,3,Contract Agreement,,True,False,,original,,2025-11-20 02:13:13.187402
-319,3,Performance Security,,True,False,,original,,2025-11-20 02:13:13.187402
-320,3,Project Programme,,True,False,,original,,2025-11-20 02:13:13.187402
-321,3,Revised Programme,,False,False,,original,,2025-11-20 02:13:13.187402
-322,3,Cash Flow Estimates,,True,False,,original,,2025-11-20 02:13:13.187402
-323,3,Monthly Reports,,True,False,,original,,2025-11-20 02:13:13.187402
-324,3,Evidence of Insurance,,True,False,,original,,2025-11-20 02:13:13.187402
-325,3,Insurance Policy Documentation,,True,False,,original,,2025-11-20 02:13:13.187402
-326,3,Returns of Labour and Contractor's Equipment,,True,False,,original,,2025-11-20 02:13:13.187402
-327,3,Records of Safety and Health,,True,False,,original,,2025-11-20 02:13:13.187402
-328,3,Accident Reports,,True,False,,original,,2025-11-20 02:13:13.187402
-329,3,Extension of Time Notification,,True,False,,original,,2025-11-20 02:13:13.187402
-330,3,Taking‑Over Certificate,,True,False,,original,,2025-11-20 02:13:13.187402
-331,3,Form of Tender Guarantee,,True,False,,original,,2025-11-20 02:57:35.442731
-332,3,Appendix 2 – Instructions to Tenderers,,True,False,,original,,2025-11-20 02:57:35.442731
-333,3,Completed Tender Form,,True,False,,original,,2025-11-20 02:58:38.735264
-334,3,Method Statements (Technical Proposal),,True,False,,original,,2025-11-20 02:58:38.735264
-335,3,Programme (Gantt chart) (Technical Proposal),,True,False,,original,,2025-11-20 02:58:38.735264
-336,3,Quality Assurance Plan (Technical Proposal),,True,False,,original,,2025-11-20 02:58:38.735264
-337,3,Health & Safety Plan (Technical Proposal),,True,False,,original,,2025-11-20 02:58:38.735264
-338,3,Environmental Management Plan (Technical Proposal),,True,False,,original,,2025-11-20 02:58:38.735264
-339,3,Bill of Quantities (BOQ) priced at unit rates (Financial Proposal),,True,False,,original,,2025-11-20 02:58:38.735264
-340,3,Consolidated Price Summary (Financial Proposal),,True,False,,original,,2025-11-20 02:58:38.735264
-341,3,Company Profile (Supporting Documents),,True,False,,original,,2025-11-20 02:58:38.735264
-342,3,Relevant Experience (minimum three similar residential projects) (Supporting Documents),,True,False,,original,,2025-11-20 02:58:38.735264
-343,3,Key Personnel CVs (Supporting Documents),,True,False,,original,,2025-11-20 02:58:38.735264
-344,3,Insurance Certificates (Supporting Documents),,True,False,,original,,2025-11-20 02:58:38.735264
-345,3,Bonding Capacity evidence (Supporting Documents),,True,False,,original,,2025-11-20 02:58:38.735264
-346,3,Soft copy (PDF) via HDB e‑Tender portal,,True,False,,original,,2025-11-20 02:58:38.735264
-347,3,Hard copy (two sets) in sealed envelopes marked “TENDER – RESIDENTIAL DEVELOPMENT – WOODLANDS AVE 1”,,True,False,,original,,2025-11-20 02:58:38.735264
+1120,43,Tender Form,,True,False,,original,,2025-11-22 05:26:15.241099
+1121,43,Company Profile,,True,False,,original,,2025-11-22 05:26:15.241099
+1122,43,Financial Documents,,True,False,,original,,2025-11-22 05:26:15.241099
+1123,43,Licence Copies,,True,False,,original,,2025-11-22 05:26:15.241099
+1124,43,Certification Copies,,True,False,,original,,2025-11-22 05:26:15.241099
+1125,43,Insurance Policies,,True,False,,original,,2025-11-22 05:26:15.241099
+1126,43,Experience Evidence,,True,False,,original,,2025-11-22 05:26:15.241099
+1127,43,Safety & Quality Plans,,True,False,,original,,2025-11-22 05:26:15.241099
+1128,43,License Requirements,,True,False,,original,,2025-11-22 05:26:56.217310
+1129,43,Certification Requirements,,True,False,,original,,2025-11-22 05:26:56.217310
+1130,43,Insurance Requirements,,True,False,,original,,2025-11-22 05:26:56.217310
+1131,43,Experience Requirements,,True,False,,original,,2025-11-22 05:26:56.217310
+1132,43,Safety Requirements,,True,False,,original,,2025-11-22 05:26:56.217310
+1133,43,Quality Requirements,,True,False,,original,,2025-11-22 05:26:56.217310
+1134,43,Submission Requirements,,True,False,,original,,2025-11-22 05:26:56.217310
+1135,43,Completed Tender Form (BCA prescribed format),,True,False,,original,,2025-11-22 05:27:38.944577
+1136,43,Audited financial statements FY 2024 (KPMG Singapore or equivalent),,True,False,,original,,2025-11-22 05:27:38.944577
+1137,43,Banking reference letters (DBS or UOB),,True,False,,original,,2025-11-22 05:27:38.944577
+1138,43,"Copies of all licences listed in Clause 4 (BCA Contractor Registration, HDB Registered Renovation Contractor, BCA Safety Personnel Registration, PUB Drainage Contractor Licence, LTA Utility Services Licence)",,True,False,,original,,2025-11-22 05:27:38.944577
+1139,43,"Copies of all certifications listed in Clause 5 (ISO 9001, ISO 14001, ISO 45001, bizSAFE Level Star)",,True,False,,original,,2025-11-22 05:27:38.944577
+1140,43,"Insurance certificates meeting the limits in Clause 6 (Work Injury Compensation, Public Liability, Contract Works)",,True,False,,original,,2025-11-22 05:27:38.944577
+1141,43,Project experience dossiers fulfilling Clause 7,,True,False,,original,,2025-11-22 05:27:38.944577
+1142,43,"Safety documentation as per Clause 8 (bizSAFE Level Star rating report, BCA Safety Personnel Registration copy, safety management plan)",,True,False,,original,,2025-11-22 05:27:38.944577
+1143,43,"Quality documentation as per Clause 9 (current ISO 9001 certification, quality assurance and control description)",,True,False,,original,,2025-11-22 05:27:38.944577
+1144,43,"Technical proposal, methodology and programme (max 30 pages)",,True,False,,original,,2025-11-22 05:27:38.944577
+1145,44,Completed Tender Form (Annex A),,True,False,,original,,2025-11-22 05:50:46.228471
+1146,44,Certified copies of all licences and registrations listed in Clause 2.2,,True,False,,original,,2025-11-22 05:50:46.228471
+1147,44,Certified copies of all certifications listed in Clause 2.3,,True,False,,original,,2025-11-22 05:50:46.228471
+1148,44,Insurance certificates meeting the minimum coverages in Clause 2.4,,True,False,,original,,2025-11-22 05:50:46.228471
+1149,44,"Audited financial statements for 2022, 2023 and 2024, signed by the auditor identified in Clause 2.1",,True,False,,original,,2025-11-22 05:50:46.228471
+1150,44,Company profile and banking reference letters from DBS or UOB,,True,False,,original,,2025-11-22 05:50:46.228471
+1151,44,"Experience evidence as required in Clause 2.5 (project reports, client letters, photographs)",,True,False,,original,,2025-11-22 05:50:46.228471
+1152,44,"Safety and quality management documentation (bizSAFE Star certificate, BCA Safety Personnel registration, ISO certificates)",,True,False,,original,,2025-11-22 05:50:46.228471
+1153,44,"Company profile (including licences, certifications, insurance certificates)",,True,False,,original,,2025-11-22 05:51:34.156744
+1154,44,"Detailed project experience list with client references, contract values, and duration",,True,False,,original,,2025-11-22 05:51:34.156744
+1155,44,Safety and quality management plans referencing bizSAFE Star and ISO 9001 standards,,True,False,,original,,2025-11-22 05:51:34.156744
+1156,44,Audited financial statements for FY 2023 and FY 2024,,True,False,,original,,2025-11-22 05:51:34.156744
+1157,44,Bank reference letters from DBS Bank Ltd or UOB Commercial Banking,,True,False,,original,,2025-11-22 05:51:34.156744
+1158,44,Signed declaration,,True,False,,original,,2025-11-22 05:51:34.156744
+1159,44,Company Profile and Organizational Chart,,True,False,,original,,2025-11-22 05:52:14.082863
+1160,44,"Audited Financial Statements for FY 2022, FY 2023, and FY 2024",,True,False,,original,,2025-11-22 05:52:14.082863
+1161,44,Copies of all licences listed in Section 2,,True,False,,original,,2025-11-22 05:52:14.082863
+1162,44,Copies of all certifications listed in Section 3,,True,False,,original,,2025-11-22 05:52:14.082863
+1163,44,Insurance certificates as per Section 4,,True,False,,original,,2025-11-22 05:52:14.082863
+1164,44,Project Experience Summary (covering the required 3‑5 year period),,True,False,,original,,2025-11-22 05:52:14.082863
+1165,44,Safety Performance Report (latest two years),,True,False,,original,,2025-11-22 05:52:14.082863
+1166,44,Quality Management Plan,,True,False,,original,,2025-11-22 05:52:14.082863
+1167,44,Bank reference letter from DBS or UOB,,True,False,,original,,2025-11-22 05:52:14.082863
+1168,44,Auditor’s certification letter (KPMG or equivalent),,True,False,,original,,2025-11-22 05:52:14.082863
+1088,42,Bank Guarantee or Performance Bond (5% of Contract Value),,True,False,,original,,2025-11-22 04:42:17.766766
+1089,42,BCA Contractor Registration (CW01 – General Building) licence,,True,False,,original,,2025-11-22 04:42:17.766766
+1090,42,HDB Registered Renovation Contractor licence,,True,False,,original,,2025-11-22 04:42:17.766766
+1091,42,BCA Safety Personnel Registration licence,,True,False,,original,,2025-11-22 04:42:17.766766
+1092,42,PUB Drainage Contractor Licence,,True,False,,original,,2025-11-22 04:42:17.766766
+1093,42,LTA Utility Services Licence,,True,False,,original,,2025-11-22 04:42:17.766766
+1094,42,ISO 9001: Quality Management System certificate,,True,False,,original,,2025-11-22 04:42:17.766766
+1095,42,ISO 14001: Environmental Management System certificate,,True,False,,original,,2025-11-22 04:42:17.766766
+1096,42,ISO 45001: Occupational Health & Safety Management System certificate,,True,False,,original,,2025-11-22 04:42:17.766766
+1097,42,bizSAFE Level Star certification,,True,False,,original,,2025-11-22 04:42:17.766766
+1098,42,Work Injury Compensation Insurance certificate,,True,False,,original,,2025-11-22 04:42:17.766766
+1099,42,Public Liability Insurance certificate,,True,False,,original,,2025-11-22 04:42:17.766766
+1100,42,Contract Works Insurance certificate,,True,False,,original,,2025-11-22 04:42:17.766766
+1101,42,Project references (including completion certificates and client testimonials),,True,False,,original,,2025-11-22 04:42:17.766766
+1102,42,bizSAFE audit report,,True,False,,original,,2025-11-22 04:42:17.766766
+1103,42,Site Safety and Health Plan (SSHP),,True,False,,original,,2025-11-22 04:42:17.766766
+1104,42,Quality Management Plan (QMP) for the project,,True,False,,original,,2025-11-22 04:42:17.766766
+1105,42,Proof of active corporate bank account (bank letter or recent bank statement),,True,False,,original,,2025-11-22 04:42:17.766766
+1106,42,Audited financial statements and auditor’s report (prepared by KPMG Singapore or equivalent),,True,False,,original,,2025-11-22 04:42:17.766766
+1107,42,Cover Letter (signed by authorised signatory),,True,False,,original,,2025-11-22 04:43:42.048720
+1108,42,"Company Profile (including corporate structure, key personnel, and organisational chart)",,True,False,,original,,2025-11-22 04:43:42.048720
+1109,42,"Audited Financial Statements for FY 2022, FY 2023 and FY 2024 (signed by KPMG Singapore or equivalent)",,True,False,,original,,2025-11-22 04:43:42.048720
+1110,42,Bank Guarantee / Standby Letter of Credit (issued by DBS or UOB),,True,False,,original,,2025-11-22 04:43:42.048720
+1111,42,Copies of all licences and registrations listed in 2.c),,True,False,,original,,2025-11-22 04:43:42.048720
+1112,42,"Copies of ISO 9001, ISO 14001, ISO 45001 and bizSAFE Level Star certificates",,True,False,,original,,2025-11-22 04:43:42.048720
+1113,42,Insurance certificates as per 2.e),,True,False,,original,,2025-11-22 04:43:42.048720
+1114,42,"Experience Matrix (project name, client, value, scope, completion date)",,True,False,,original,,2025-11-22 04:43:42.048720
+1115,42,Safety Management Plan (aligned with bizSAFE and BCA safety registration),,True,False,,original,,2025-11-22 04:43:42.048720
+1116,42,Quality Assurance Plan (referencing ISO certifications),,True,False,,original,,2025-11-22 04:43:42.048720
+1117,42,"Technical Proposal (methodology, programme, resources, BIM execution plan)",,True,False,,original,,2025-11-22 04:43:42.048720
+1118,42,"Commercial Proposal (detailed Bill of Quantities, unit rates, provisional sums)",,True,False,,original,,2025-11-22 04:43:42.048720
+1119,42,Form of Tender (signed),,True,False,,original,,2025-11-22 04:43:42.048720

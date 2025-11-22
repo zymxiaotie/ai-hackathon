@@ -1,0 +1,5 @@
+equipment_name,type,quantity,ownership,last_maintenance,google_drive_path
+Crawler Crane 50T,Lifting Equipment,2,Owned,2024-09-01,gdrive://company/equipment/CrawlerCrane_ServiceReport.pdf
+Excavator 20T,Earthwork Machinery,4,Owned,2024-08-12,gdrive://company/equipment/Excavator_ServiceReport.pdf
+Concrete Mixer 1m3,Concrete Equipment,3,Leased,2024-10-15,gdrive://company/equipment/ConcreteMixer_Report.pdf
+Passenger Hoist,Vertical Transport,2,Owned,2024-07-20,gdrive://company/equipment/PassengerHoist_Checklist.pdf

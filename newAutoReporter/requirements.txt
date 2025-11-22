@@ -1,0 +1,14 @@
+# Tender Intelligence Report Generator - Dependencies
+
+# Core dependencies
+requests>=2.31.0
+psycopg2-binary>=2.9.9
+openai>=1.0.0
+
+# Optional (if not already installed)
+python-dotenv>=1.0.0
+
+# Note: Install with:
+# pip install -r requirements.txt
+# or
+# pip install --break-system-packages -r requirements.txt

@@ -1,6 +1,6 @@
-license_id,license_type,license_grade,license_category,issue_date,expiry_date,license_number,status
-1,BCA CRS,B1,General Building,,2026-06-30,23456789A,active
-2,BCA CRS,C1,Civil Engineering,,2026-06-30,23456789B,active
-3,Specialist Builder Licence,,Structural Steelwork,,2026-12-31,SB1234,active
-4,Builder's Licence,Class 1,Building Works,,2026-12-31,GB1-5678,active
-5,HDB Registered Contractor,,Building Works,,,HDB456789,active
+id,license_type,authority,registration_number,validity_start,validity_end,status,scope,remarks,google_drive_path
+1,BCA Contractor Registration (CW01 – General Building),BCA,GB1-2020-12345A,2023-01-01,2026-12-31,Active,General Building Works (A1),Meets tender eligibility for HDB/LTA/PUB residential jobs,https://drive.google.com/file/d/1AaKs92nFH7t3M2gYd97cRtP9uSxi1Wqv/view?usp=sharing
+2,HDB Registered Renovation Contractor,HDB,HDB-RRC-55621,2024-03-01,2026-02-28,Active,HDB Residential Works,Eligible for HDB procurement,https://drive.google.com/file/d/1Cj79fEbshQP3KwuE6k3q7tFiY1b9VqgN/view?usp=sharing
+3,BCA Safety Personnel Registration,BCA,BCA-WSH-88912,2024-01-01,2027-01-01,Active,Workplace Safety Health,Valid for site safety supervision,https://drive.google.com/file/d/19bAUQv4kT82HSv7p7cVntJZ3ARX0Vw8M/view?usp=sharing
+4,PUB Drainage Contractor License,PUB,PUB-DC-33422,2023-07-01,2026-06-30,Active,Drainage/Civil Works,Meets PUB requirements,https://drive.google.com/file/d/1p7Fg92xTqvbd8k3EYcW9Cj4BQshhY12e/view?usp=sharing
+5,LTA Utility Services License,LTA,LTA-US-22411,2023-04-01,2025-04-01,Active,Road & Services Support,Compliant for LTA residential adjacency works,https://drive.google.com/file/d/1sV8Eo3fG52udE6ZM3KcT1sQF0bn8W1aS/view?usp=sharing

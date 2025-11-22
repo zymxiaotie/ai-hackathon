@@ -1,6 +1,5 @@
-project_id,project_name,contract_value,completion_date,client_name,project_type,project_description,location
-1,HDB Tampines North,42500000.00,2023-12-31,HDB,Residential,Completed 2 months ahead of schedule,Tampines North
-2,Clementi Upgrading Works,8000000.00,2022-12-31,HDB,A&A,Zero safety incidents throughout project,Clementi
-3,Tai Seng Commercial Dev.,15300000.00,2021-12-31,Private,Commercial,Achieved BCA Green Mark Gold certification,Tai Seng
-4,East Coast Condo,12800000.00,2020-12-31,Private,Residential,Client satisfaction score of 9.5/10,East Coast
-5,Jurong Logistics Centre,9600000.00,2019-12-31,Private,Industrial,Innovative space optimization solution,Jurong
+id,project_name,client,authority,contract_no,start_date,end_date,value,performance_score,project_manager,google_drive_path
+1,HDB BTO Residential Blocks – Structural & Architectural Works,HDB Building Group,HDB,HDB-BTO-2023-112,2023-02-01,2024-11-15,8200000.00,92,Goh Wei Ming,https://drive.google.com/file/d/1Knb67PdF2cMGtxyv5Ezdf4mgHXPXk9tQ/view?usp=sharing
+2,Upgrading of Estate Linkways & Covered Walkways,Town Council,BCA,TC-UW-2022-71,2022-03-15,2023-08-30,2400000.00,95,Jason Lim,https://drive.google.com/file/d/1Mc1ZQeLkoXc7HfB4U7xAwt4Y8VwbkcpW/view?usp=sharing
+3,PUB Sewer Diversion for Residential Development,PUB Engineering,PUB,PUB-SD-2021-944,2021-05-20,2022-12-01,4100000.00,88,Tan Jian Hui,https://drive.google.com/file/d/1NF1QnvvUW12ABfMuB5bRZC7dFFhRrL1k/view?usp=sharing
+4,LTA Minor Road Realignment for Housing Precinct,LTA Road Projects Division,LTA,LTA-MR-2023-552,2023-04-01,2024-09-22,5300000.00,89,Lim Hong Jie,https://drive.google.com/file/d/1PD8TQZRV8-cfS6wCBgZ6-ppF9QmB5H4Q/view?usp=sharing

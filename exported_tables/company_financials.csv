@@ -1,2 +1,5 @@
-financial_id,financial_year,annual_turnover,paid_up_capital,net_worth,updated_date
-1,2023,40000000.00,2000000.00,,2025-11-19 09:15:15.149736
+id,fiscal_year,revenue,net_profit,net_worth,auditor,bank_reference,google_drive_path
+1,2021,4500000.00,320000.00,1500000.00,KPMG Singapore,DBS Bank Ltd – SME Banking,https://drive.google.com/file/d/1Fd9N3qEuym6S5nPpQqQ41dyJZ88h7Sst/view?usp=sharing
+2,2022,5200000.00,410000.00,1680000.00,KPMG Singapore,DBS Bank Ltd – SME Banking,https://drive.google.com/file/d/1GEy2kK4s72ehAffp9wxnHk7FHqpJxsQ2/view?usp=sharing
+3,2023,6100000.00,480000.00,1750000.00,KPMG Singapore,UOB Commercial Banking,https://drive.google.com/file/d/1HavCqk7NZ6ycM1wQ4mxCr2y3CjYkXw8Y/view?usp=sharing
+4,2024,6700000.00,525000.00,1900000.00,KPMG Singapore,OCBC Business Banking,https://drive.google.com/file/d/1JmZC8S47bPkLjxX0B5fMyFq2LrPvE8Eo/view?usp=sharing

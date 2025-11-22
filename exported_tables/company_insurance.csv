@@ -1,0 +1,4 @@
+insurance_type,provider,policy_number,coverage_amount,validity_start,validity_end,contact_person,google_drive_path
+Work Injury Compensation Insurance,NTUC Income,WIC-99221,5000000,2024-01-01,2025-12-31,Siti Rahman,gdrive://company/insurance/WIC_Policy.pdf
+Public Liability Insurance,AIG Singapore,PLI-77451,10000000,2024-03-01,2025-02-28,Marcus Ong,gdrive://company/insurance/PLI_Policy.pdf
+Contract Works Insurance,Allianz SG,CW-55672,8000000,2024-02-01,2025-01-31,Gerald Tan,gdrive://company/insurance/CW_Policy.pdf
